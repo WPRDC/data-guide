@@ -2,10 +2,10 @@ site_name: data-guide
 pages:
 - Home: index.md
 - Modules:
-	- "Intro to the Project": project.md
-	- "Intro to the Platform": platform.md
-	- "Getting Data Ready to Share": input.md
-	- "Getting data from WPRDC": output.md
+	- "Intro to the Project": "project.md"
+	- "Intro to the Platform": "platform.md"
+	- "Getting Data Ready to Share": "input.md"
+	- "Getting data from WPRDC": "output.md"
 - About: about.md
 
 theme: yeti
