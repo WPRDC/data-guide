@@ -1,4 +1,4 @@
-# Introduction to the WPRDC Portal
+# Introduction to the WPRDC Project
 
 ## Mission, Goals, Partners, etc.
 
