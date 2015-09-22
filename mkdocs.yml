@@ -1,0 +1,10 @@
+site_name: data-guide
+pages:
+- Home: index.md
+- Platform: platform.md
+- Portal: portal.md
+- Input: input.md
+- Output: output.md
+- About: about.md
+
+theme: readable
