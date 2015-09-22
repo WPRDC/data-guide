@@ -1,0 +1,149 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to the WPRDC Data Guide\n\n\nThis is a guidebook for using the Western Pennsylvania Regional Data Center. \n\n\nThis data guide is divided into four parts. bla bla bla", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-the-wprdc-data-guide", 
+            "text": "This is a guidebook for using the Western Pennsylvania Regional Data Center.   This data guide is divided into four parts. bla bla bla", 
+            "title": "Welcome to the WPRDC Data Guide"
+        }, 
+        {
+            "location": "/project/", 
+            "text": "Introduction to the WPRDC Project\n\n\nMission, Goals, Partners, etc.\n\n\nWhy/Who/What\n\n\nWhat is Open Data", 
+            "title": "Intro to the Project"
+        }, 
+        {
+            "location": "/project/#introduction-to-the-wprdc-project", 
+            "text": "", 
+            "title": "Introduction to the WPRDC Project"
+        }, 
+        {
+            "location": "/project/#mission-goals-partners-etc", 
+            "text": "", 
+            "title": "Mission, Goals, Partners, etc."
+        }, 
+        {
+            "location": "/project/#whywhowhat", 
+            "text": "", 
+            "title": "Why/Who/What"
+        }, 
+        {
+            "location": "/project/#what-is-open-data", 
+            "text": "", 
+            "title": "What is Open Data"
+        }, 
+        {
+            "location": "/platform/", 
+            "text": "What is the WPRDC Platform\n\n\nWhat is a Data Portal\n\n\nWhat is Our Model\n\n\n\n\nFederated \n\n\n\n\nBecoming a Data Consumer / Publisher\n\n\nNext Steps - Inputs / Outputs\n\n\n\n\nmanual upload / download\n\n\nETL / API", 
+            "title": "Intro to the Platform"
+        }, 
+        {
+            "location": "/platform/#what-is-the-wprdc-platform", 
+            "text": "", 
+            "title": "What is the WPRDC Platform"
+        }, 
+        {
+            "location": "/platform/#what-is-a-data-portal", 
+            "text": "", 
+            "title": "What is a Data Portal"
+        }, 
+        {
+            "location": "/platform/#what-is-our-model", 
+            "text": "Federated", 
+            "title": "What is Our Model"
+        }, 
+        {
+            "location": "/platform/#becoming-a-data-consumer-publisher", 
+            "text": "", 
+            "title": "Becoming a Data Consumer / Publisher"
+        }, 
+        {
+            "location": "/platform/#next-steps-inputs-outputs", 
+            "text": "manual upload / download  ETL / API", 
+            "title": "Next Steps - Inputs / Outputs"
+        }, 
+        {
+            "location": "/input/", 
+            "text": "Getting Data Ready to Share\n\n\nWhat should I share?\n\n\n\n\nprivacy\n\n\nlegal\n\n\ncompliance\n\n\n\n\nWhat Format?\n\n\nBasic Cleaning \n Sorting\n\n\nAdvanced Cleaning\n\n\n\n\nPII\n\n\n\n\nData Documentation\n\n\n\n\nmetadata\n\n\ndata use guides\n\n\n\n\nNext Steps\n\n\n\n\nData Publishing Workflows", 
+            "title": "Getting Data Ready to Share"
+        }, 
+        {
+            "location": "/input/#getting-data-ready-to-share", 
+            "text": "", 
+            "title": "Getting Data Ready to Share"
+        }, 
+        {
+            "location": "/input/#what-should-i-share", 
+            "text": "privacy  legal  compliance", 
+            "title": "What should I share?"
+        }, 
+        {
+            "location": "/input/#what-format", 
+            "text": "", 
+            "title": "What Format?"
+        }, 
+        {
+            "location": "/input/#basic-cleaning-sorting", 
+            "text": "", 
+            "title": "Basic Cleaning &amp; Sorting"
+        }, 
+        {
+            "location": "/input/#advanced-cleaning", 
+            "text": "PII", 
+            "title": "Advanced Cleaning"
+        }, 
+        {
+            "location": "/input/#data-documentation", 
+            "text": "metadata  data use guides", 
+            "title": "Data Documentation"
+        }, 
+        {
+            "location": "/input/#next-steps", 
+            "text": "Data Publishing Workflows", 
+            "title": "Next Steps"
+        }, 
+        {
+            "location": "/output/", 
+            "text": "Getting Data from WPRDC\n\n\nBrowsing \n Search\n\n\nDownloading Data\n\n\n\"Datasets\" \n \"Resources\"\n\n\nNext Steps", 
+            "title": "Getting data from WPRDC"
+        }, 
+        {
+            "location": "/output/#getting-data-from-wprdc", 
+            "text": "", 
+            "title": "Getting Data from WPRDC"
+        }, 
+        {
+            "location": "/output/#browsing-search", 
+            "text": "", 
+            "title": "Browsing &amp; Search"
+        }, 
+        {
+            "location": "/output/#downloading-data", 
+            "text": "", 
+            "title": "Downloading Data"
+        }, 
+        {
+            "location": "/output/#datasets-resources", 
+            "text": "", 
+            "title": "\"Datasets\" &amp; \"Resources\""
+        }, 
+        {
+            "location": "/output/#next-steps", 
+            "text": "", 
+            "title": "Next Steps"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About this Guide\n\n\nFoo Bar Baz", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about-this-guide", 
+            "text": "Foo Bar Baz", 
+            "title": "About this Guide"
+        }
+    ]
+}
