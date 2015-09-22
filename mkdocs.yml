@@ -7,4 +7,4 @@ pages:
 - Output: output.md
 - About: about.md
 
-theme: readable
+theme: yeti
