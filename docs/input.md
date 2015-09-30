@@ -8,10 +8,18 @@
 - compliance
 
 ## What Format?
+- list format types, show what they look like or link to sites - also include events
+- encourage open formats
+- machine readable
+- multiple formats ok for same dataset
+- conversion tools
 
-
-## Basic Cleaning & Sorting
-
+## Basic Cleaning & Sorting (csv/xls)
+- tabular data, remove titles and blank rows
+- keep headers atop columns
+- no unstructured fields (privacy risk)
+- nothing under table
+- sort to minimize null cells
 
 ## Advanced Cleaning
 
@@ -31,7 +39,7 @@ Thanks to advice and support from the Digital Scholarship Services team at the U
 
 As always, if you have any questions, suggestions or comments about documenting data or anything else, please let us know.
 - data use guides
+)
+## Next Steps(organization specific
 
-## Next Steps
-
-- Data Publishing Workflows
+- Data Publishing Workflows 
