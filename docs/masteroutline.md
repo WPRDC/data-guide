@@ -41,7 +41,7 @@
 - manual upload
 - creating views
 
-#metadata
+##metadata
 - what it is
 - why it is important
 - schema
