@@ -57,7 +57,7 @@
 
 ##Data Catalogs
 
-#Staff transition
+##Staff transition
 - notify WPRDC
 - change account roles
 
