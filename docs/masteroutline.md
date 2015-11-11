@@ -40,6 +40,7 @@
 - datasets and resources defined
 - manual upload
 - creating views
+- add data to groups
 
 ##metadata
 - what it is
