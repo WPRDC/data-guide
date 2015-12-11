@@ -10,7 +10,7 @@
 - organized as publishing "classes"
 - training
 - logo
-- description
+- description (include url)
 - department list
 
 ##Privacy
@@ -47,7 +47,7 @@
 - why it is important
 - schema
 - how-to complete
-- creating a data dictionary and other documentation (user guides)
+- creating a data dictionary and other documentation (user guides) vs. what goes into data notes
 
 ##Moderating comments
 - creating accounts on DISQUS
