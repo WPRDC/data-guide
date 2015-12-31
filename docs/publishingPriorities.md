@@ -10,6 +10,8 @@ Don't worry if data quality not ideal. Feedback can help improve data quality.
 
 ###Ask partners and potential users
 
+###Look at what is shared internally
+
 ###Look at what other organizations share
 
 ###Look at legal obligations
