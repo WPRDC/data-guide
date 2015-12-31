@@ -1,13 +1,24 @@
 #Establishing Publishing Priorities
 
+Don't worry if data quality not ideal. Feedback can help improve data quality.
+
 ##What to publish...
 
 ###Examine data requests
 
 ###Organizational Priorities
 
-###Ask partners
+###Ask partners and potential users
 
 ###Look at what other organizations share
 
-What not to publish
+###Look at legal obligations
+
+##What not to publish
+
+sensitive data 
+Laws (hippa, ferpa)
+Contractual obligations
+
+
+
