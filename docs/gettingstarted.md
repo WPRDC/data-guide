@@ -36,5 +36,6 @@ Here's what new organizations need to know before sharing data on the Regional D
 - The Regional Data Center will include a logo from all publishing organizations on each publisher's "organization" page on the Website.
 - Publishers should share a 189x189 pixel logo with the Regional Data Center for use on the Website. Most common graphic file formats (e.g. gif, jpg, etc) are acceptable.
 - A brief description of each organization should also be provided for inclusion on the Website. Two to three sentences should be sufficient. For examples, please see the Regional Data Center Website.
+- Show how to add to the site directly.
 
 
