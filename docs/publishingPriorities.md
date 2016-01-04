@@ -1,5 +1,5 @@
 #Establishing Publishing Priorities
-Some organizations have had a tough time deciding what type of data to share. This page is designed to provide advice in determining what data to publish, and is based on the experiences of other organizations as they made decisions on what types of data to publish. Don't worry if the quality of your organization's data is not that great. Users often provide feedback that will result in improvements to the quality of your data.
+Some organizations have had a tough time deciding what type of data to share. This page is designed to provide advice in determining what data to publish. This advice is based on the experiences of other organizations as they made decisions on what types of data to share. Don't worry if the quality of your organization's data is not perfect. Users often provide feedback that will result in improvements to the quality of your data.
 
 ###Examine data requests
 A great place to start is to look at a list of the data requests your organizations have recently received. These may consist of both formal "Right to Know Law" requests, and informal requests from external partners and residents. Proactively sharing data can lead to enhanced productivity. Staff will spend less time posting frequently requested data to the data portal once rather than repeatedly sharing it by request.
@@ -20,13 +20,11 @@ Open data programs have been in place around the U.S. for over six years. Organi
 Some organizations are required to share information with the public. If this is the case for your organization, an open data portal provides an easy way to share information in a way that makes it easy for it to be used by others.
 
 ##Update Frequency
-How often to update the data is one of the considerations after deciding what data to share. Some of the factors that often go into this decision include the difficulty or time required to prepare the data update, and the degree to which the data informs important organizational or community initiatives and critical business processes. Publishers often take an incrememtal strategy in updating data, where they assess how the data is being used before determining how often to refresh the information on the data portal. However your organization decides to proceed, we encourage you to edit the "update frequency" in the metadata to let users know when to expect an update. 
+How often to update the data is one of the considerations after deciding what data to share. Some of the factors that often go into this decision include the difficulty or time required to prepare the data update, and the degree to which the data informs important organizational or community initiatives and critical business processes. Publishers often take an incrememtal strategy in updating data, where they assess how the data is being used before determining how often to refresh the information on the data portal. However your organization decides to proceed, we encourage you to edit the "update frequency" in the metadata to let users know when to expect an update.
 
-Organizations that are experienced in open data often develop a publishing calendar, and...
-
+Organizations that are experienced in open data often develop a publishing calendar. If you'd like to stay on top of your open data publishing, a calendar can help you organize your publishing efforts. Sharing your open data calendar can also be a way to let your data users know when to expect a data update.  
 
 If feasible, the Regional Data Center will work with publishing partners to automate data updates through an "Extract, Transform, Load" (ETL) process. ETL processes are in place for several datasets on the portal, and allow for near real-time data updates. If you think one of your organizations' datasets is a good ETL candidate, please let us know. 
-
 
 ##Not all data can be open data
 Please refer to our privacy-related materials to minimize the risk and harm of sharing information that may be sensitive in nature.
