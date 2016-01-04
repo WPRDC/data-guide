@@ -25,6 +25,7 @@
 ##Establishing publication priorities
 - examine requests
 - benefits of sharing
+- update frequency
 
 
 ##Preparing data
@@ -44,6 +45,7 @@
 - creating views
 - add data to groups
 - Data Center review (do not make public)
+- permanence
 
 ##metadata
 - what it is
