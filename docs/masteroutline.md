@@ -17,6 +17,8 @@
 - what to know about it - harm
 - What to publish, and what not to publish (protected data, contracts, etc)
 - what to know about data management
+- internal review
+- Data Center review
 - when to contact us
 - breach response plan
 
@@ -41,6 +43,7 @@
 - manual upload
 - creating views
 - add data to groups
+- Data Center review (do not make public)
 
 ##metadata
 - what it is
