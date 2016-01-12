@@ -26,17 +26,17 @@ There are several actions your organization can take to minimize the risk of acc
 
 ###1. Inventory PII
 Developing a catalog of the PII is held by the organization can inform internal processes and procedures designed to protect privacy. This inventory can include information about: 
--what type of PII exists
--file structures and formats
--how data is created, managed and used, 
--access and retention policies, and
--applicable laws and policies governing the data.
+- what type of PII exists
+- file structures and formats
+-  data is created, managed and used, 
+- access and retention policies, and
+- applicable laws and policies governing the data.
 
 ###2.  Eliminate Unnecessary Collection and Retention of PII
-Organizations should carefully review their PII inventory to eliminate the collection and retention of inessential information.PII not collected, retained, or used cannot pose a risk of breach. Where feasible, governments can reduce the risk of a PII breach by eliminating unnecessary replicas, ensuring that requests for information are clear and necessary. 
+Organizations shouldn't collect PII unless the information is essential. Where feasible, governments can also reduce the risk of a PII breach by eliminating unnecessary copies of data containing PII. 
 
 ###3. Develop Information Security Policies and Procedures  
-Local governments can reduce the risk of a breach of PII by developing and applying policies and procedures for data security and management throughout the life cycle of data. Additional protections that can be adopted by local governments include developing information retention schedules and disposal procedures and including such procedures in the metadata. Organizations should also have a process in place in the advent of an inadvertent breach of PII.
+Local governments can reduce the risk of a breach of PII by developing and applying policies and procedures for data security and management throughout the life cycle of data. Additional protections that can be adopted by local governments include developing information retention schedules and disposal procedures. It's a good practice to document these procedures, reference them in matadata, and share them with others in the organization. 
 
 ###4. Evaluate the Consequences of a PII Breach
 
