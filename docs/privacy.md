@@ -48,7 +48,7 @@ The severity of a breach includes potential liability to both individuals and or
 ###5. Develop policies and procedures for managing a breach 
 Organizations can limit consequences by developing a breach management plan that outlines policies and procedures for managing a breach, and staff that should be involved in the response. Responses to breaches should be proactive, timely, and efficient. The breach management plan can include a timeline of breach responses policies and procedures. If a breach is suspected, the response team should clearly investigate details associated with the breach, including an estimate of the number of individuals potentially affected, the likelihood the information will be used to cause harm, and the severity of the consequences. The breach management plan should also include communication protocols for internal audiences, the media, and individuals that may have been directly affected.  
 
-###6 Education, Training, and Outreach
+###6 Create Education and Training Programs
 Education and training can help individual staff and the organization take appropriate measures to reduce the risk of a confidentiality breach. Educational materials could include a definition of PII, and a description of applicable privacy laws, regulations, and policies. Training can cover data management plans and practices, and can also address actions to take in response to a breach.
 
 ###7. Be Transparent
@@ -60,7 +60,7 @@ Legal and legislative standards, security controls, information technology, and 
 ###9. Collaborate and Learn from Peers 
 Sharing data is not a new phenomenon. Valuable information can be gained by looking at how other organizations share a particular dataset, or what types of policies and practices they've developed.
 
-###10 Collaborate with the Western Pennsylvania Regional Data Center
+###10 Contact the Western Pennsylvania Regional Data Center
 The Regional Data Center is here to help your organization responsibly share data. We encourage you to contact us if you have any questions about protecting privacy or sharing data. We also are planning to develop resources and other materials to help you and your organization responsibly manage and share information.
 
 
