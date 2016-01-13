@@ -6,6 +6,8 @@ Open data publishing requires policies and actions to protect individuals and or
 ##What is Personally Identifiable Information (PII)
 Personally identifiable information (PII) is “information about a person that contains some unique identifier, including but not limited to name or Social Security Number, from which the identity of the person can be determined.” [GSA 2014] This description includes both information that directly identifies an individual, such as a name, and information, such as race or gender, that can identify individuals when combined with other information.
 
+ADD EXAMPLES HERE
+
 Privacy law and respective legal standards ultimately determine what constitutes PII.  Therefore, the definition of PII varies by jurisdiction and also on a case-by-case basis. 
 
 ##What are Public Agencies Required to Share?
@@ -20,6 +22,22 @@ Most of the exemption criteria in Section 708 are related to the release of PII,
 Additional information about Pennsylvania’s Right-to-Know Law, including a list of Section 708 exemptions, can be found at http://panewsmedia.org/legal/openrecords.
 
 In addition to Right-to-Know laws, individuals may have certain rights to access or be aware of information that pertains to them.  
+
+Some data that contains PII is often released as open data...
+
+
+Organize - 
+
+- Evaluation
+- Assess data quality
+- Data management to prevent accidental release
+- Responding to accidental release
+- 
+
+
+
+
+
 
 ##How to Reduce the Risk of Accidentally Releasing PII
 There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
