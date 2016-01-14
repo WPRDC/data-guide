@@ -26,17 +26,12 @@ In addition to Right-to-Know laws, individuals may have certain rights to access
 Some data that contains PII is often released as open data...
 
 
-Organize - 
+Organize in this way instead of #'s 1-10 
 
-- Evaluation
+- Evaluation of harm
 - Assess data quality
 - Data management to prevent accidental release
 - Responding to accidental release
-- 
-
-
-
-
 
 
 ##How to Reduce the Risk of Accidentally Releasing PII
