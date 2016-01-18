@@ -93,11 +93,24 @@ Additional information about Pennsylvania’s Right-to-Know Law, including a lis
 In addition to Right-to-Know laws, individuals may have certain rights to access or be aware of information that pertains to them.  
 
 
-##Evaluating What Data to Share
+##Privacy Review Process
+Organizations should develop and implement an internal review process to evaluate whether or not to share a particular dataset. Part of this evaluation should include a risk-based approach to assess the probability and severity of a breach. The evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. Additional aspects of the privacy review can include a data quality assessment, and a comparison of how other publishers have handled this dataset.
+####Privacy Risk Assessment
+
+####Data Quality Assessment
+
+####Comparison to Other Communities
+
+####De-identification and Anonymization
+
+
+
+
+
 Some data that contains PII is often released as open data...
 
 ###4. Evaluate the Consequences of a PII Breach
-Organizations should develop and implement an internal review process to evaluate whether or not to share a particular dataset. Part of this evaluation should include a risk-based approach to assess the probability and severity of a breach. The evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release.
+
 
  Examining data to identify for quality issues, and validation, and also the degree to which individuals can be uniquely identified in the data if linked to other sources of information. For example, data that contains unstructured information (such as notes fields) can sometimes contain PII. In some cases, data that has been stripped of names can still be linked to other information to identify unique individuals.
 
