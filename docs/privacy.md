@@ -6,6 +6,69 @@ Open data publishing requires policies and actions to protect individuals and or
 ##What is Personally Identifiable Information (PII)
 Personally identifiable information (PII) is “information about a person that contains some unique identifier, including but not limited to name or Social Security Number, from which the identity of the person can be determined.” [GSA 2014] This description includes both information that directly identifies an individual, such as a name, and information, such as race or gender, that can identify individuals when combined with other information.
 
+The list below describes what might be considered personally identifiable information (PII). It is not meant to be exhaustive but is intended to provide examples and context as to what might be considered PII. 
+ 
+|Personal Identifiers|   
+|---------------------|
+|Name |
+|Social Security number|
+|Drivers' licence number|
+|Passport number|
+|Financial account numbers (bank, credit cards)|
+|Taxpayer identification number|
+Contact information   	
+            	Address
+            	Phone number
+            	Email Address
+Other personal data   	
+            	User names
+            	Date of birth
+            	place of birth
+            	Mother’s maiden name
+            	Gender
+            	Age
+            	Physical descriptors (eye/hair color, height, etc.)
+            	Family information (marital status/children/relatives)
+            	Sexual orientation
+            	Race/ethnicity
+            	Religion
+            	Education
+            	Employment
+            	Citizenship
+            	Criminal history
+Medical and biometric data     	
+            	Signature and handwriting
+            	Fingerprints, handprints, and other body scans
+            	Photograph
+            	Voice recording
+            	DNA markers
+            	Health, insurance, treatment, or medical information
+Computing and communications data 	
+            	User names
+            	Passwords
+            	Unique device identifier
+            	Location/GPS data
+            	Camera controls (photo, video, videoconference)
+            	Microphone controls
+            	Other hardware/software controls
+            	Cell tower records
+            	Data collected by applications
+            	Contact lists and directories
+            	Network status
+            	Network communications data
+            	Device settings or preferences (e.g., security, sharing, status, etc.)
+            	Log data (e.g., IP address, time, date, referrer site, browser type)
+            	Tracking data (e.g., single- or multi-session cookies, beacons)
+            	Forms data
+Other data      	
+            	Vehicle registration number
+            	Vehicle title number
+		Vehicle license plate 
+            	Other geographic identifiers
+            	Activities
+
+
+
 ADD EXAMPLES HERE
 
 Privacy law and respective legal standards ultimately determine what constitutes PII.  Therefore, the definition of PII varies by jurisdiction and also on a case-by-case basis. 
