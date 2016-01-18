@@ -78,9 +78,6 @@ The list below describes what might be considered personally identifiable inform
 |Activities|
 
 
-
-ADD EXAMPLES HERE
-
 Privacy law and respective legal standards ultimately determine what constitutes PII.  Therefore, the definition of PII varies by jurisdiction and also on a case-by-case basis. 
 
 ##What are Public Agencies Required to Share?
@@ -96,7 +93,20 @@ Additional information about Pennsylvania’s Right-to-Know Law, including a lis
 
 In addition to Right-to-Know laws, individuals may have certain rights to access or be aware of information that pertains to them.  
 
+
+##Deciding What Data to Share
 Some data that contains PII is often released as open data...
+
+###9. Collaborate and Learn from Peers 
+Sharing data is not a new phenomenon. Valuable information can be gained by looking at how other organizations share a particular dataset, or what types of policies and practices they've developed.
+
+
+
+
+##Evaluating Harm
+
+###10 Contact the Western Pennsylvania Regional Data Center
+The Regional Data Center is here to help your organization responsibly share data. We encourage you to contact us if you have any questions about protecting privacy or sharing data. We also are planning to develop resources and other materials to help you and your organization responsibly manage and share information.
 
 
 Organize in this way instead of #'s 1-10 
@@ -143,10 +153,6 @@ Sharing information on open data plans and policies can result in valuable feedb
 ###8. Establish Periodic Reviews of PII Policies and Procedures
 Legal and legislative standards, security controls, information technology, and the information itself will all change over time.  Maintaining effective practices to protect PII will require a commitment to routinely revisiting internal policies and procedures.
 
-###9. Collaborate and Learn from Peers 
-Sharing data is not a new phenomenon. Valuable information can be gained by looking at how other organizations share a particular dataset, or what types of policies and practices they've developed.
 
-###10 Contact the Western Pennsylvania Regional Data Center
-The Regional Data Center is here to help your organization responsibly share data. We encourage you to contact us if you have any questions about protecting privacy or sharing data. We also are planning to develop resources and other materials to help you and your organization responsibly manage and share information.
 
 
