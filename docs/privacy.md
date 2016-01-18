@@ -126,6 +126,10 @@ It should be emphasized that a thorough qualitative risk assessment can be resou
 Table 1: An example risk matrix.  The rows represent probability categories associated with a potential PII breach. The columns represent variation in the severity of consequences associated with a potential PII breach. The darker shading represents a semi-quantitative assessment of the consequences of a potential breach (consequence = probability × severity). 
 
 ####Comparison to Other Communities
+Sharing data is not a new phenomenon. Valuable information can be gained by looking at how other organizations share a particular dataset, or what types of policies and practices they've developed.
+
+Add table
+
 
 ####De-identification and Anonymization
 
@@ -137,7 +141,8 @@ Every dataset that is shared as open data should be rigorously evaluated before 
 that may contain 
 
 - Fields with inconsistent content
-- 
+Can be caused by improper sorting or other errors in managing data - look for inconsistency in a data field
+
 
 
 
@@ -160,7 +165,6 @@ The severity of a breach includes potential liability to both individuals and or
 
 
 ###9. Collaborate and Learn from Peers 
-Sharing data is not a new phenomenon. Valuable information can be gained by looking at how other organizations share a particular dataset, or what types of policies and practices they've developed.
 
 
 
