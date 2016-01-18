@@ -77,7 +77,6 @@ The list below describes what might be considered personally identifiable inform
 |Other geographic identifiers (coordinates, etc.)|
 |Activities|
 
-
 Privacy law and respective legal standards ultimately determine what constitutes PII.  Therefore, the definition of PII varies by jurisdiction and also on a case-by-case basis. 
 
 ##What are Public Agencies Required to Share?
@@ -94,8 +93,16 @@ Additional information about Pennsylvania’s Right-to-Know Law, including a lis
 In addition to Right-to-Know laws, individuals may have certain rights to access or be aware of information that pertains to them.  
 
 
-##Deciding What Data to Share
+##Evaluating What Data to Share
 Some data that contains PII is often released as open data...
+
+###4. Evaluate the Consequences of a PII Breach
+Organizations should develop and implement an internal review process to evaluate whether or not to share a particular dataset. Part of this evaluation should include a risk-based approach to assess the probability and severity of a breach. The evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release.
+
+ Examining data to identify for quality issues, and validation, and also the degree to which individuals can be uniquely identified in the data if linked to other sources of information. For example, data that contains unstructured information (such as notes fields) can sometimes contain PII. In some cases, data that has been stripped of names can still be linked to other information to identify unique individuals.
+
+The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII are influenced by the sensitivity of the information. the context in which it is used, and obligations organizations may have to protect the information. Since the selection and definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. 
+
 
 ###9. Collaborate and Learn from Peers 
 Sharing data is not a new phenomenon. Valuable information can be gained by looking at how other organizations share a particular dataset, or what types of policies and practices they've developed.
@@ -117,8 +124,12 @@ Organize in this way instead of #'s 1-10
 - Responding to accidental release
 
 
+
+
 ##How to Reduce the Risk of Accidentally Releasing PII
 There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
+
+The probability of a breach related to open data can be minimized by effective information management practices.
 
 ###1. Inventory PII
 Developing a catalog of the PII is held by the organization can inform internal processes and procedures designed to protect privacy. This inventory can include information about: 
@@ -134,12 +145,7 @@ Organizations shouldn't collect PII unless the information is essential. Where f
 ###3. Develop Information Security Policies and Procedures  
 Local governments can reduce the risk of a breach of PII by developing and applying policies and procedures for data security, access, and management throughout the life cycle of data. Additional protections that can be adopted by local governments include developing information retention schedules, storage, and disposal procedures. It's a good practice to document these processes, reference them in matadata, and share them with others in the organization. 
 
-###4. Evaluate the Consequences of a PII Breach
-Organizations should develop and implement an internal review process to evaluate whether or not to share a particular dataset. Part of this evaluation should include a risk-based approach to assess the probability and severity of a breach. The evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release.
 
-The probability of a breach related to open data can be minimized by effective data management and validation, and also the degree to which individuals can be uniquely identified in the data if linked to other sources of information. For example, data that contains unstructured information (such as notes fields) can sometimes contain PII. In some cases, data that has been stripped of names can still be linked to other information to identify unique individuals.
-
-The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII are influenced by the sensitivity of the information. the context in which it is used, and obligations organizations may have to protect the information. Since the selection and definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. 
 
 ###5. Develop policies and procedures for managing a breach 
 Organizations can limit consequences by developing a breach management plan that outlines policies and procedures for managing a breach, and staff that should be involved in the response. Responses to breaches should be proactive, timely, and efficient. The breach management plan can include a timeline of breach responses policies and procedures. If a breach is suspected, the response team should clearly investigate details associated with the breach, including an estimate of the number of individuals potentially affected, the likelihood the information will be used to cause harm, and the severity of the consequences. The breach management plan should also include communication protocols for internal audiences, the media, and individuals that may have been directly affected.  
