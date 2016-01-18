@@ -1,7 +1,7 @@
 #Protecting Privacy
 
 ##Introduction
-Open data publishing requires policies and actions to protect individuals and organizations from unintentional breaches of personally identifiable information (PII). The proliferation of digital public records, data contained in social media, inadequate policies for managing and protecting PII, and inconsistent data management practices increase the likelihood that PII can be combined across multiple sources to uniquely identify an individual. This section of the guide is designed to help publishers identify PII, and take steps to minimize the risk and harm of a breach.
+Open data publishing requires policies, procedures, and actions to protect individuals and organizations from unintentional sharing of personally identifiable information (PII). In some cases, sharing data including PII can cause people serious harm. The proliferation of digital public records, data contained in social media, inadequate policies for managing and protecting PII, and inconsistent data management practices increase the likelihood that PII can be combined across multiple sources to uniquely identify an individual. This section of the guide is designed to help publishers identify PII, and take steps to minimize the risk and harm of a breach.
 
 ##What is Personally Identifiable Information (PII)
 Personally identifiable information (PII) is “information about a person that contains some unique identifier, including but not limited to name or Social Security Number, from which the identity of the person can be determined.” [GSA 2014] This description includes both information that directly identifies an individual, such as a name, and information, such as race or gender, that can identify individuals when combined with other information.
@@ -94,7 +94,17 @@ In addition to Right-to-Know laws, individuals may have certain rights to access
 
 
 ##Privacy Review Process
-Organizations should develop and implement an internal review process to evaluate whether or not to share a particular dataset. Part of this evaluation should include a risk-based approach to assess the probability and severity of a breach. Additional aspects of the privacy review can include a data quality assessment, and a comparison of how other publishers have handled this dataset. The evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. Some organizations that share open data also incorporate a legal review process as part of the privacy review. 
+After an organization decides to share information as open data, they should develop and implement an internal review process to evaluate whether or not to share a particular dataset. Part of this evaluation should assess the probability of a data breach, and assess the severity of harm to individuls whose confidality has been compromized. Additional aspects of the privacy review can include a data quality assessment, and a comparison of how other publishers have handled this dataset. The evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. Some organizations that share open data also incorporate a legal review process as part of the privacy review. 
+
+
+
+
+####Assessing the Harm Caused by a Data Breach
+
+####Assessing the Probability of a Data Breach
+
+The probability of a breach related to open data can be minimized by a thorough a thorough review of information, and implementation of information management practices;
+
 
 ####Privacy Risk Assessment (This needs some work...)
 
@@ -114,6 +124,8 @@ The consequences of sharing a directory containing student names is different th
  PII protections are defined by law or regulation. Names of political campaign donors often must be publicly released, whereas regulations like HIPAA and FERPA restrict the release of PII by law.
 
 Since the definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. Participation by multiple staff can also help balance the subjectively inherent in completing a risk assessment.
+
+
 
 Once the characteristics of the risk matrix have been defined, staff then attribute a unique probability and severity category to each PII field, which then places each PII in a unique cell in the risk matrix. Table 1 shows the attribution of probability and severity categories to three hypothetical data sets:
 A list of a five employee names, emails, and professional certifications that constitute a small municipal department that is otherwise available through the agency’s website;
@@ -188,7 +200,7 @@ Organize in this way instead of #'s 1-10
 ##How to Reduce the Risk of Accidentally Releasing PII
 There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
 
-The probability of a breach related to open data can be minimized by effective information management practices.
+
 
 ###1. Inventory PII
 Developing a catalog of the PII is held by the organization can inform internal processes and procedures designed to protect privacy. This inventory can include information about: 
