@@ -101,19 +101,19 @@ Organizations should develop and implement an internal review process to evaluat
 -Harm
 
 
-The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII or other sensitive information are influenced by
+The harm caused by a breach includes potential liability to both individuals and organizations. The severity are a breach of PII or other sensitive information are influenced by
 
 - the sensitivity of the information to potential misuse;
-- the context in which the information is used by the publisher; and 
-- obligations governments may have to protect the information
+For example, an employee directory and contact information are less sensitive to misuse than a contact listing of undercover police detectives. 
 
-For example, an employee directory and contact information are less sensitive to misuse than a contact listing of undercover police detectives. Similarly, the consequences of breaching a list of student names are different than breaching a list of students by names that are seeking treatment for substance abuse. Both contain the same PII, but the context of uses poses different potential consequences in the event of a breach.  
+- the context in which the information is used by the publisher; 
+The consequences of sharing a directory containing student names is different than sharing a list of students by name that are seeking treatment for substance abuse.
 
+- obligations governments may have to protect or share information
 
+ PII protections are defined by law or regulation. Names of political campaign donors often must be publicly released, whereas regulations like HIPAA and FERPA restrict the release of PII by law.
 
-In some cases, PII protections are defined by law or regulation. Names of political campaign donors often must be publicly released, whereas regulations like HIPAA and FERPA restrict the release of PII by law.
-
-Since the definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. Participation by multiple staff can also help balance the subjectively inherent in completing a risk matrix.
+Since the definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. Participation by multiple staff can also help balance the subjectively inherent in completing a risk assessment.
 
 Once the characteristics of the risk matrix have been defined, staff then attribute a unique probability and severity category to each PII field, which then places each PII in a unique cell in the risk matrix. Table 1 shows the attribution of probability and severity categories to three hypothetical data sets:
 A list of a five employee names, emails, and professional certifications that constitute a small municipal department that is otherwise available through the agency’s website;
