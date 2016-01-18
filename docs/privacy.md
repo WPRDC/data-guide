@@ -97,6 +97,45 @@ In addition to Right-to-Know laws, individuals may have certain rights to access
 Organizations should develop and implement an internal review process to evaluate whether or not to share a particular dataset. Part of this evaluation should include a risk-based approach to assess the probability and severity of a breach. The evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. Additional aspects of the privacy review can include a data quality assessment, and a comparison of how other publishers have handled this dataset.
 ####Privacy Risk Assessment
 
+This section profiles the development and application of a risk-based approach to appraise the expected consequences of a breach of sensitive information. We first disaggregate the expected consequences of a potential breach into the probability and severity of a breach. We then develop semi-quantitative categories for the probability and severity of breach and apply them using a risk matrix. 
+
+The probability of a breach is influenced by 
+- the quantity, location, and format of PII;
+- respective modes of access; and
+- the degree to which individuals can be uniquely identified.
+
+For example, client names and addresses stored in only one location with clearly-defined access policies and consistent formatting are less likely to be breached than names and addresses of clients stored in multiple locations with inconsistent access restrictions and inconsistent data formats.  
+
+Probability of a breach can be mitigated by effective data management and evaluation practices.
+
+The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII are influenced by
+
+- the sensitivity of the information to potential misuse;
+- the context in which the information is used by the publisher; and 
+- obligations governments may have to protect the information
+
+For example, an employee directory and contact information are less sensitive to misuse than a contact listing of undercover police detectives. Similarly, the consequences of breaching a list of student names are different than breaching a list of students by names that are seeking treatment for substance abuse. Both contain the same PII, but the context of uses poses different potential consequences in the event of a breach.  
+
+In some cases, PII protections are defined by law or regulation. Names of political campaign donors often must be publicly released, whereas regulations like HIPAA and FERPA restrict the release of PII by law.
+
+The expected consequences of a breach are informed by both its probability of breach and severity of consequences. Ideally, both the probability and the severity of an inadvertent PII breach would be known quantities, and the consequences would simply be the product of the two, or consequence = probability × severity. However, it is difficult to accurately forecast the probability or severity of an unintended breach.  
+
+Thus, governments often employ semi-quantitative techniques to assess expected consequences. Staff first define categories for both the the probability and severity of a breach.  The probability and severity categories are then assembled into the rows and columns, respectively, to define a risk matrix. The following table shows an example risk matrix that includes four probability categories (near certain, likely, possible, and improbable) and four severity categories (insignificant, moderate, major, and critical). However, staff can use choose any number of categories and respective definitions. 
+
+Risk matrices have been applied to a wide variety of public sector decision making, including assessing health and safety for disaster response crews [OSHA 2015], prioritizing river restoration projects [Thorne et al. 2014], and estimating the local risks of climate change [World Bank 2015].
+
+Since the selection and definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. Participation by multiple staff can also help balance the subjectively inherent in completing a risk matrix. Similarly, since the assignment of breach probability is subjective, local governments and other data owners may find it helpful to develop a common definition of probability categories. For example, Table 4 couples the probability categories with a ranges in expected probabilities (“near certain” implies 90%-100% probability; “likely” implies 50%-90% probability; “possible” implies 10%-50%; and “improbable” implies 0%-10%). 
+Once the characteristics of the risk matrix have been defined, staff then attribute a unique probability and severity category to each PII field, which then places each PII in a unique cell in the risk matrix. Table 1 shows the attribution of probability and severity categories to three hypothetical data sets:
+A list of a five employee names, emails, and professional certifications that constitute a small municipal department that is otherwise available through the agency’s website;
+A list of around 3,000 school district students and their home address stored on district servers with outdated firewalls to which many individuals have remote access;
+A database of 311 non-emergency complaints (approximately 50,000 per year), including the location of the requested service, the address of the complainant, the date and time of the complaint, and the nature of the complaint stored on a single protected server with restricted access. 
+The probability of a breach of 311 data is estimated as possible because of its restricted access, location on a single server, and lower frequency of information identifying individuals. As a contrasting example, the probability of a breach of student data is estimated as near certain because of its location, proliferation, access mode, and outdated protection.  For these two examples, the severity of the consequences of a potential breach are both estimated to be major in that the information identifies individuals that could be in compromised situations.   
+The results of a qualitative risk assessment allow local governments to tailor specific policies and procedures to specific consequence categories. Considering the example risk matrix in Table 1, governments might require de-identification, anonymization, and/or elimination of sensitive fields before releasing any PII that falls in the darker shaded cells, or cells that define information that demonstrates a higher probability of being breached combined with more severe potential consequences. For example, governments may decide that 311 data can only be released by removing location and time-of-day information. Similarly, governments may require minimal internal review or modifications of data that falls in the lightly shaded cells in Table 4. 
+A full attribution of PII on a risk matrix can help local governments prioritize scarce resources. Staff can better detail the sensitivities specific to each data set and prioritize appropriate actions.  For example, simple security measures may significantly mitigate the consequences of PII where the potential consequences are moderate and breach is likely or near certain.; 
+It should be emphasized that a thorough qualitative risk assessment can be resource intensive and may be overly burdensome for federal government, particularly where governments administer a limited amount of PII.  While a risk assessment is helpful, it is not a necessary step in reducing the risk of a PII breach.  
+Table 1: An example risk matrix.  The rows represent probability categories associated with a potential PII breach. The columns represent variation in the severity of consequences associated with a potential PII breach. The darker shading represents a semi-quantitative assessment of the consequences of a potential breach (consequence = probability × severity). 
+
+
 ####Data Quality Assessment
 
 ####Comparison to Other Communities
