@@ -101,9 +101,11 @@ After an organization decides to share information as open data, they should dev
 
 ####Assessing the Harm Caused by a Data Breach
 
+
+
 ####Assessing the Probability of a Data Breach
 
-The probability of a breach related to open data can be minimized by a thorough a thorough review of information, and implementation of information management practices;
+The probability of a breach related to open data can be minimized by a thorough a thorough review of information being shared as open data, and the implementation of management practices designed to reduce the opportunity for unintentional disclosure. 
 
 
 ####Privacy Risk Assessment (This needs some work...)
