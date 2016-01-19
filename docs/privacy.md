@@ -94,7 +94,19 @@ In addition to Right-to-Know laws, individuals may have certain rights to access
 
 
 ##Privacy Review Process
-After an organization decides to share information as open data, they should develop and implement an internal review process to evaluate whether or not to share a particular dataset. Part of this evaluation should assess the probability of a data breach, and assess the severity of harm to individuls whose confidality has been compromized. Additional aspects of the privacy review can include a data quality assessment, and a comparison of how other publishers have handled this dataset. The evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. Some organizations that share open data also incorporate a legal review process as part of the privacy review. 
+Harm
+ and a comparison of how other publishers have handled this dataset.
+Some organizations that share open data also incorporate a legal review process as part of the privacy review. 
+
+he evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. 
+
+
+
+
+
+The assessment should also determine if any individuals are significantly harmed by publishing the data.
+
+Additional aspects of the privacy review can 
 
 
 
@@ -103,41 +115,11 @@ After an organization decides to share information as open data, they should dev
 
 
 
-####Assessing the Probability of a Data Breach
+####Reducing the Likelihood of a Data Breach
 
 The probability of a breach related to open data can be minimized by a thorough a thorough review of information being shared as open data, and the implementation of management practices designed to reduce the opportunity for unintentional disclosure. 
 
 
-####Privacy Risk Assessment (This needs some work...)
-
--Harm
-
-
-The harm caused by a breach includes potential liability to both individuals and organizations. The severity are a breach of PII or other sensitive information are influenced by
-
-- the sensitivity of the information to potential misuse;
-For example, an employee directory and contact information are less sensitive to misuse than a contact listing of undercover police detectives. 
-
-- the context in which the information is used by the publisher; 
-The consequences of sharing a directory containing student names is different than sharing a list of students by name that are seeking treatment for substance abuse.
-
-- obligations governments may have to protect or share information
-
- PII protections are defined by law or regulation. Names of political campaign donors often must be publicly released, whereas regulations like HIPAA and FERPA restrict the release of PII by law.
-
-Since the definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. Participation by multiple staff can also help balance the subjectively inherent in completing a risk assessment.
-
-
-
-Once the characteristics of the risk matrix have been defined, staff then attribute a unique probability and severity category to each PII field, which then places each PII in a unique cell in the risk matrix. Table 1 shows the attribution of probability and severity categories to three hypothetical data sets:
-A list of a five employee names, emails, and professional certifications that constitute a small municipal department that is otherwise available through the agency’s website;
-A list of around 3,000 school district students and their home address stored on district servers with outdated firewalls to which many individuals have remote access;
-A database of 311 non-emergency complaints (approximately 50,000 per year), including the location of the requested service, the address of the complainant, the date and time of the complaint, and the nature of the complaint stored on a single protected server with restricted access. 
-The probability of a breach of 311 data is estimated as possible because of its restricted access, location on a single server, and lower frequency of information identifying individuals. As a contrasting example, the probability of a breach of student data is estimated as near certain because of its location, proliferation, access mode, and outdated protection.  For these two examples, the severity of the consequences of a potential breach are both estimated to be major in that the information identifies individuals that could be in compromised situations.   
-The results of a qualitative risk assessment allow local governments to tailor specific policies and procedures to specific consequence categories. Considering the example risk matrix in Table 1, governments might require de-identification, anonymization, and/or elimination of sensitive fields before releasing any PII that falls in the darker shaded cells, or cells that define information that demonstrates a higher probability of being breached combined with more severe potential consequences. For example, governments may decide that 311 data can only be released by removing location and time-of-day information. Similarly, governments may require minimal internal review or modifications of data that falls in the lightly shaded cells in Table 4. 
-A full attribution of PII on a risk matrix can help local governments prioritize scarce resources. Staff can better detail the sensitivities specific to each data set and prioritize appropriate actions.  For example, simple security measures may significantly mitigate the consequences of PII where the potential consequences are moderate and breach is likely or near certain.; 
-It should be emphasized that a thorough qualitative risk assessment can be resource intensive and may be overly burdensome for federal government, particularly where governments administer a limited amount of PII.  While a risk assessment is helpful, it is not a necessary step in reducing the risk of a PII breach.  
-Table 1: An example risk matrix.  The rows represent probability categories associated with a potential PII breach. The columns represent variation in the severity of consequences associated with a potential PII breach. The darker shading represents a semi-quantitative assessment of the consequences of a potential breach (consequence = probability × severity). 
 
 ####Comparison to Other Communities
 Sharing data is not a new phenomenon. Valuable information can be gained by looking at how other organizations share a particular dataset, or what types of policies and practices they've developed.
@@ -147,9 +129,19 @@ Add table
 
 ####De-identification and Anonymization
 
+- Deidentification
+Remove PII from the dataset
+
+Example
+
+- Anonymization
+Manipulating data to deidentify
+
+Example
+
 ####Data Quality Assessment
 
-Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. Several elements to look for include: 
+After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. Test de-identification or anonymization . TSeveral elements to look for include: 
 
 - Unstructured or semi-structured fields
 that may contain 
@@ -157,6 +149,9 @@ that may contain
 - Fields with inconsistent content
 Can be caused by improper sorting or other errors in managing data - look for inconsistency in a data field
 
+- Check de-identified data
+
+- Check to be sure no unique records in anonymized data.
 
 
 
@@ -199,12 +194,12 @@ Organize in this way instead of #'s 1-10
 
 
 
-##How to Reduce the Risk of Accidentally Releasing PII
+##How to Reduce the Risk of Accidentally Releasing PII or other sensitive information
 There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
 
 
 
-###1. Inventory PII
+#### Inventory PII
 Developing a catalog of the PII is held by the organization can inform internal processes and procedures designed to protect privacy. This inventory can include information about: 
 - what type of PII exists
 - file structures and formats
@@ -212,24 +207,24 @@ Developing a catalog of the PII is held by the organization can inform internal 
 - access and retention policies, and
 - applicable laws and policies governing the data.
 
-###2.  Eliminate Unnecessary Collection and Retention of PII
+####  Eliminate Unnecessary Collection and Retention of PII
 Organizations shouldn't collect PII unless the information is essential. Where feasible, governments can also reduce the risk of a PII breach by eliminating unnecessary copies of data containing PII. 
 
-###3. Develop Information Security Policies and Procedures  
+#### Develop Information Security Policies and Procedures  
 Local governments can reduce the risk of a breach of PII by developing and applying policies and procedures for data security, access, and management throughout the life cycle of data. Additional protections that can be adopted by local governments include developing information retention schedules, storage, and disposal procedures. It's a good practice to document these processes, reference them in matadata, and share them with others in the organization. 
 
 
 
-###5. Develop policies and procedures for managing a breach 
+#### Develop policies and procedures for managing a breach 
 Organizations can limit consequences by developing a breach management plan that outlines policies and procedures for managing a breach, and staff that should be involved in the response. Responses to breaches should be proactive, timely, and efficient. The breach management plan can include a timeline of breach responses policies and procedures. If a breach is suspected, the response team should clearly investigate details associated with the breach, including an estimate of the number of individuals potentially affected, the likelihood the information will be used to cause harm, and the severity of the consequences. The breach management plan should also include communication protocols for internal audiences, the media, and individuals that may have been directly affected.  
 
-###6 Create Education and Training Programs
+#### Create Education and Training Programs
 Education and training can help individual staff and the organization take appropriate measures to reduce the risk of a confidentiality breach. Educational materials could include a definition of PII, and a description of applicable privacy laws, regulations, and policies. Training can cover data management plans and practices, and can also address actions to take in response to a breach.
 
-###7. Be Transparent
-Sharing information on open data plans and policies can result in valuable feedback to the data publisher. This information can be used to develop publication priorities, educate data users, and enhance efforts to protect privacy.
+#### Be Transparent
+Sharing information on open data plans and policies can result in valuable feedback to the data publisher. This information can be used to develop publication priorities, educate data users, and enhance efforts to protect privacy. Also share information on what was done to protect sensitive information in the metadata...
 
-###8. Establish Periodic Reviews of PII Policies and Procedures
+#### Establish Periodic Reviews of PII Policies and Procedures
 Legal and legislative standards, security controls, information technology, and the information itself will all change over time.  Maintaining effective practices to protect PII will require a commitment to routinely revisiting internal policies and procedures.
 
 
