@@ -83,7 +83,9 @@ Privacy law and respective legal standards ultimately determine what constitutes
 Public records in Pennsylvania are subject to the presumption of openness standard in the Commonwealth’s Right-to-Know Law. This standard dictates that all records are presumed to be open to the public unless:
 1. Disclosure is prohibited by law, regulation, or judicial order; 
 2. Disclosure is prohibited by privilege, such as attorney-client or doctor-patient privileges; 
-3. The requested information meets one of 30 criteria outlined in Section 708 in Pennsylvania’s Right-to-Know Law AND agencies deem the risks of public disclosure outweigh the benefits.
+3. The requested information meets one of 30 criteria outlined in Section 708 in Pennsylvania’s Right-to-Know Law 
+4. 
+5. AND agencies deem the risks of public disclosure outweigh the benefits. (check on this)
 
 The presumption of openness standard places the burden of proof on agencies to demonstrate any exemption criteria are met. 
 Most of the exemption criteria in Section 708 are related to the release of PII, drafts of internal documentation, or records that would pose public risks if released.  It should be emphasized that public agencies can release information that meet the Section 708 exemption criteria if they deem such release in the public’s best interest.  
