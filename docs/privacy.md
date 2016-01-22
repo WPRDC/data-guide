@@ -1,5 +1,10 @@
 #Protecting Privacy
 
+https://ico.org.uk/for-organisations/guide-to-data-protection/data-protection-principles/
+
+http://www.seattle.gov/information-technology/privacy-program/privacy-statement
+
+
 ##Introduction
 Open data publishing requires policies, procedures, and actions to protect individuals and organizations from unintentional sharing of personally identifiable information (PII). In some cases, sharing data including PII can cause people serious harm. The proliferation of digital public records, data contained in social media, inadequate policies for managing and protecting PII, and inconsistent data management practices increase the likelihood that PII can be combined across multiple sources to uniquely identify an individual. This section of the guide is designed to help publishers identify PII, and take steps to minimize the risk and harm of a breach. 
 
