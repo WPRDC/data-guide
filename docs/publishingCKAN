@@ -8,7 +8,7 @@ The open data portal used by the Regional Data Center is powered by open source 
 ### Before creating a dataset the first time, you'll need to make sure that:
 
 1. You are logged-in to CKAN and your account has the appropriate permissions enabling you to publish
-2. Your data file is machine readable and is in an appropriate file format. Refer to the "preparing your data" section of this guide.
+2. Your data file is machine readable and is in an appropriate file format. Refer to the "preparing your data" section of this guide. 
 3. You have created a data dictionary for your file. See the "creating a data dictionary" section of this guide.
 4. You are prepared to create a metadata record for your dataset. Metadata is created as part of this publishing process. For more on metadata, please see the "creating metadata" section of the publisher's guide.
 
@@ -19,10 +19,20 @@ The open data portal used by the Regional Data Center is powered by open source 
 
 ### Creating a CKAN Account
 
+### Logging-in to CKAN
+
 
 ### Accounts and Roles
 
+Roles
+Each role has a list of permitted actions appropriate for a protected object.
 
+Currently there are four basic roles:
+
+reader: can read the object
+anon_editor: anonymous users (i.e. not logged in) can edit and read the object
+editor: can edit, read and create new objects
+admin: admin can do anything including: edit, read, delete, update-permissions (change authorizations for that object)
 
 
 - accounts and roles
