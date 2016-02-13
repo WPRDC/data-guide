@@ -2,4 +2,35 @@
 
 This section of the publisher's guide covers the process for manually publishing a dataset to the Regional Data Center's open data portal.
 
-Before uploading a data file, you'll need to make sure that 
+The open data portal used by the Regional Data Center is powered by open source software called CKAN... 
+
+
+### Before creating a dataset the first time, you'll need to make sure that:
+
+1. You are logged-in to CKAN and your account has the appropriate permissions enabling you to publish
+2. Your data file is machine readable and is in an appropriate file format. Refer to the "preparing your data" section of this guide.
+3. You have created a data dictionary for your file. See the "creating a data dictionary" section of this guide.
+4. You are prepared to create a metadata record for your dataset. Metadata is created as part of this publishing process. For more on metadata, please see the "creating metadata" section of the publisher's guide.
+
+### Before updating an existing resource within the dataset, you'll need to make sure that:
+
+1. You are logged-in to CKAN and your account has the appropriate permissions enabling you to publish data.
+2. Your data file is machine readable and is in an appropriate file format. Refer to the "preparing your data" section of this guide.
+
+### Creating a CKAN Account
+
+
+### Accounts and Roles
+
+
+
+
+- accounts and roles
+- staff roles
+- organizations
+- datasets and resources defined
+- manual upload
+- creating views
+- add data to groups
+- Data Center review (do not make public)
+- permanence
