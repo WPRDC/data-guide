@@ -36,6 +36,12 @@
 - avoid blank rows
 - legal review
 
+##Creating a data dictionary
+- what are data dictionaries
+- why are they important
+- suggested formats
+- how to create (spreadsheet)
+
 ##publishing on CKAN
 - accounts and roles
 - staff roles
