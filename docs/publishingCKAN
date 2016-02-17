@@ -23,34 +23,50 @@ Creating an account on CKAN involves visiting the Regional Data Center website <
 
 ### Logging-in to CKAN
 
+To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. To login, please visit <LINK>
 
 
 ### Accounts and Roles
 
-All accounts initially created on CKAN lack publishing permissions. To publish data, your account will need to have either an editor or admin role. Only the Regional Data Center or the CKAN admin at your organization is able to assign the appropriate role to your account.
+All accounts initially created on CKAN lack publishing permissions. To publish data, your account will need to have either an editor or admin role. 
 
-Roles
-Each role has a list of permitted actions appropriate for a protected object.
+Only the Regional Data Center or the CKAN admin at your organization is able to assign the appropriate role to your account. You will need to provide your CKAN user name to the person able to assign the appropriate role
 
-Currently there are four basic roles:
+Accounts in CKAN can have one of X roles. The roles available within CKAN include:
 
+
+NOTE - CHECK ON THIS..
 reader: can read the object
 anon_editor: anonymous users (i.e. not logged in) can edit and read the object
 editor: can edit, read and create new objects
 admin: admin can do anything including: edit, read, delete, update-permissions (change authorizations for that object)
 
 
-- accounts and roles
 - staff roles
+
+
 - organizations
-- datasets and resources defined
-- manual upload
+
+
+
+### Datasets and Resources Defined
+
+It's best to think of datasets within CKAN as a container that holds information. The information or resources in the ccontainer...
+
+### Creating a Dataset
+
+Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. 
+
+### Creating a Resource Within a Dataset
+
+
+
 - creating views
 ### add data to groups
 
-All data published through the open data portal should be assigned to one or more groups. Groups are topical categories that make it easier for users to find information by topical area. On the open data portal, there are 16??? groups designated. The primary group assignment for a dataset should be made through the metadata record, however datasets can be assigned to multiple groups if appropriate.
+All data published through the open data portal should be assigned to one or more groups. Groups are topical categories that make it easier for users to find information by topical area. On the open data portal, there are 16 groups designated. The primary group assignment for a dataset should be made through the metadata record, however datasets can be assigned to multiple groups if appropriate.
 
-To assign datasets to additional groups...
+Assigning datasets to additional groups can be done through the groups tab on the dataset "landing page"
 
 ### Data Center Privacy Review: Publish New Datasets as Private
 
@@ -63,4 +79,5 @@ We encourage publishers to proactively contact us by phone or email if there are
 
 When updating resources within a dataset, there is no need to designate the dataset as private unless substantial changes affecting the design or composition of resources within the dataset have been made.
 
-- permanence
+### permanence
+See LA Publishing guide
