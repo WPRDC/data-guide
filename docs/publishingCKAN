@@ -5,7 +5,7 @@ This section of the publisher's guide covers the process for manually publishing
 The open data portal used by the Regional Data Center is powered by open source software called CKAN... 
 
 
-### Before <u>creating</u> a dataset the first time, you'll need to make sure that:
+### Before creating a dataset the first time, you'll need to make sure that:
 
 1. You are logged-in to CKAN and your account has the appropriate permissions enabling you to publish
 2. Your data file is machine readable and is in an appropriate file format. Refer to the "preparing your data" section of this guide. 
@@ -19,27 +19,26 @@ The open data portal used by the Regional Data Center is powered by open source 
 
 ### Creating a CKAN Account
 
-Creating an account on CKAN involves visiting the Regional Data Center website <LINK> and entering a user name, password, and email address.
+Creating an account on CKAN involves visiting the Regional Data Center website <https://data.wprdc.org/user/register> and entering a user name, password, and email address.
 
 ### Logging-in to CKAN
 
-To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. To login, please visit <LINK>
+To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. To login, please visit <https://data.wprdc.org/user/login>
 
 
 ### Accounts and Roles
 
 All accounts initially created on CKAN lack publishing permissions. To publish data, your account will need to have either an editor or admin role. 
 
-Only the Regional Data Center or the CKAN admin at your organization is able to assign the appropriate role to your account. You will need to provide your CKAN user name to the person able to assign the appropriate role
+Only the Regional Data Center or the designated CKAN administrator at your organization is able to assign the appropriate role to your account. 
 
-Accounts in CKAN can have one of X roles. The roles available within CKAN include:
+You will need to provide them with your CKAN user name to assign you as an administrator ror editor.
 
+Accounts in CKAN can have one of 3 roles. The roles available within CKAN include:
 
-NOTE - CHECK ON THIS..
-reader: can read the object
-anon_editor: anonymous users (i.e. not logged in) can edit and read the object
-editor: can edit, read and create new objects
-admin: admin can do anything including: edit, read, delete, update-permissions (change authorizations for that object)
+member: members can view private datasets owned by their organization, but cannot add data to the site.
+editor: can edit, read and create new objects on CKAN
+admin: admin can do anything including: edit, read, delete, and update permissions (change authorizations for that object)
 
 
 - staff roles
