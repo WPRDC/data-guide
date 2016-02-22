@@ -5,7 +5,7 @@ This section of the publisher's guide covers the process for manually publishing
 The open data portal used by the Regional Data Center is powered by open source software called CKAN... 
 
 
-### Before creating a dataset the first time, you'll need to make sure that:
+### Before <u>creating</u> a dataset the first time, you'll need to make sure that:
 
 1. You are logged-in to CKAN and your account has the appropriate permissions enabling you to publish
 2. Your data file is machine readable and is in an appropriate file format. Refer to the "preparing your data" section of this guide. 
