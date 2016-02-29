@@ -2,7 +2,7 @@
 
 This section of the publisher's guide covers the process for manually publishing a dataset to the Regional Data Center's open data portal.
 
-The open data portal used by the Regional Data Center is powered by open source software called CKAN... 
+The open data portal used by the Regional Data Center is powered by open source software called CKAN. 
 
 
 ### Before creating a dataset the first time, you'll need to make sure that:
@@ -21,10 +21,11 @@ The open data portal used by the Regional Data Center is powered by open source 
 
 Creating an account on CKAN involves visiting the Regional Data Center website <https://data.wprdc.org/user/register> and entering a user name, password, and email address.
 
+Regional Data Center staff or your organization's administrator will also associate your CKAN acount with the aqppropriate organization.
+
 ### Logging-in to CKAN
 
 To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. To login, please visit <https://data.wprdc.org/user/login>
-
 
 ### Accounts and Roles
 
@@ -34,11 +35,11 @@ Only the Regional Data Center or the designated CKAN administrator at your organ
 
 You will need to provide them with your CKAN user name to assign you as an administrator ror editor.
 
-Accounts in CKAN can have one of 3 roles. The roles available within CKAN include:
+Accounts in CKAN can have one of three roles. The roles available within CKAN include:
 
-member: members can view private datasets owned by their organization, but cannot add data to the site.
-editor: can edit, read and create new objects on CKAN
-admin: admin can do anything including: edit, read, delete, and update permissions (change authorizations for that object)
+* member: members can view private datasets owned by their organization, but cannot add data to the site.
+* editor: can edit, read and create new objects on CKAN
+* admin: admin can do anything including: edit, read, delete, and update permissions (change authorizations for that object)
 
 
 - staff roles
@@ -50,15 +51,20 @@ admin: admin can do anything including: edit, read, delete, and update permissio
 
 ### Datasets and Resources Defined
 
-It's best to think of datasets within CKAN as a container that holds information. The information or resources in the ccontainer...
+It's best to think of datasets within CKAN as a container that holds information about the dataset itself in a metadata record, along with a number of resources. 
+
+Resources in CKAN 
 
 ### Creating a Dataset
 
 Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. 
 
+Metadata
+
+
 ### Creating a Resource Within a Dataset
 
-
+The second step in the process involves creating resources within each dataset.
 
 - creating views
 ### add data to groups
@@ -80,3 +86,5 @@ When updating resources within a dataset, there is no need to designate the data
 
 ### permanence
 See LA Publishing guide
+
+### Editing or updating a dataset
