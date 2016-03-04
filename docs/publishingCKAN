@@ -61,17 +61,24 @@ Manually uploading data to CKAN involves a two step process. The first step in t
 
 Metadata
 
+Link or embed screen capture
 
 ### Creating a Resource Within a Dataset
 
 The second step in the process involves creating resources within each dataset.
 
+Link or embed screen capture
+
 - creating views
+
+
 ### add data to groups
 
 All data published through the open data portal should be assigned to one or more groups. Groups are topical categories that make it easier for users to find information by topical area. On the open data portal, there are 16 groups designated. The primary group assignment for a dataset should be made through the metadata record, however datasets can be assigned to multiple groups if appropriate.
 
 Assigning datasets to additional groups can be done through the groups tab on the dataset "landing page"
+
+Link or embed screen capture
 
 ### Data Center Privacy Review: Publish New Datasets as Private
 
@@ -88,3 +95,5 @@ When updating resources within a dataset, there is no need to designate the data
 See LA Publishing guide
 
 ### Editing or updating a dataset
+
+Link or embed screen capture
