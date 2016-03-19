@@ -8,7 +8,7 @@ http://www.seattle.gov/information-technology/privacy-program/privacy-statement
 ##Introduction
 Open data publishing requires policies, procedures, and actions to protect individuals and organizations from unintentional sharing of personally identifiable information (PII). In some cases, sharing data including PII can cause people serious harm. The proliferation of digital public records, data contained in social media, inadequate policies for managing and protecting PII, and inconsistent data management practices increase the likelihood that PII can be combined across multiple sources to uniquely identify an individual. This section of the guide is designed to help publishers identify PII, and take steps to minimize the risk and harm of a breach. 
 
-The Western Pennsylvania Regional Data Center is NOT equipped to offer legal advice or opinions related to data sharing. We encourage organizations with questions to contact appropriate legal counsel with any questions related to the legal aspects of data sharing. 
+The Western Pennsylvania Regional Data Center is NOT equipped to offer legal advice or opinions related to data sharing. We encourage organizations with questions to contact appropriate counsel with any questions related to the legal aspects of data sharing. 
 
 ##What is Personally Identifiable Information (PII)
 Personally identifiable information (PII) is “information about a person that contains some unique identifier, including but not limited to name or Social Security Number, from which the identity of the person can be determined.” [GSA 2014] This description includes both information that directly identifies an individual, such as a name, and information, such as race or gender, that can identify individuals when combined with other information.
@@ -91,8 +91,7 @@ Public records in Pennsylvania are subject to the presumption of openness standa
 1. Disclosure is prohibited by law, regulation, or judicial order; 
 2. Disclosure is prohibited by privilege, such as attorney-client or doctor-patient privileges; 
 3. The requested information meets one of 30 criteria outlined in Section 708 in Pennsylvania’s Right-to-Know Law 
-4. 
-5. AND agencies deem the risks of public disclosure outweigh the benefits. (check on this)
+4. AND agencies deem the risks of public disclosure outweigh the benefits. (check on this)
 
 The presumption of openness standard places the burden of proof on agencies to demonstrate any exemption criteria are met. 
 Most of the exemption criteria in Section 708 are related to the release of PII, drafts of internal documentation, or records that would pose public risks if released.  It should be emphasized that public agencies can release information that meet the Section 708 exemption criteria if they deem such release in the public’s best interest.  
@@ -126,14 +125,14 @@ Additional aspects of the privacy review can
 
 ####Reducing the Likelihood of a Data Breach
 
-The probability of a breach related to open data can be minimized by a thorough a thorough review of information being shared as open data, and the implementation of management practices designed to reduce the opportunity for unintentional disclosure. 
+The probability of a breach related to open data can be minimized by a thorough a thorough review of information being shared as open data, and the implementation of data management plans and practices designed to reduce the opportunity for unintentional disclosure. 
 
 
 
 ####Comparison to Other Communities
-Sharing data is not a new phenomenon. Valuable information can be gained by looking at how other organizations share a particular dataset, or what types of policies and practices they've developed.
+Valuable guidance can be gained from other organizations' policies and practices for managing privacy risks related to open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local sources. 
 
-Add table
+
 
 
 ####De-identification and Anonymization
