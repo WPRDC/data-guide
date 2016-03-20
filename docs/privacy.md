@@ -103,24 +103,26 @@ In addition to Right-to-Know laws, individuals may have certain rights to access
 
 ##Privacy Review Process
 
-###Assessing Harm of a Release
+###Assessing Harm of a Release (revise)
  
-Many privacy review processes begin with an assessment of harm.   that may nbbe he assessment should also determine if any individuals are significantly harmed by publishing the data. Direct release and also by linkinng this data to other accessible information... 
+Many privacy review processes begin with an assessment of harm.   that may nbbe he assessment should also determine if any individuals are significantly harmed by publishing the data. Direct release and also by linkinng this data to other accessible information... Some PII is routinely released as open data (examples)
 
+Examining data to identify for quality issues, and validation, and also the degree to which individuals can be uniquely identified in the data if linked to other sources of information. For example, data that contains unstructured information (such as notes fields) can sometimes contain PII. In some cases, data that has been stripped of names can still be linked to other information to identify unique individuals.
+
+The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII are influenced by the sensitivity of the information. the context in which it is used, and obligations organizations may have to protect the information. Since the selection and definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. 
 
 
 
  
 
 
-he evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. 
 
 
 ####Comparison to Other Communities
 Valuable guidance can be gained from other organizations' policies and practices for publishing open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local sources. Using this data catalog, publishers can quickly see how other government agencies handle privacy issues related to datasets similar to your own.
 
 ###Legal Review
-Some organizations that share open data also incorporate a legal review process as part of the privacy review. 
+Some organizations that share open data also incorporate a legal review as part of the privacy review process. This review can provide an important check to determine that data sharing does not violate laws or local ordinance, or present undue harm to individuals that may be included in the data. Even if your organization does not have the resources to submit all datasets for a legal review, granting someone else within the organization with the responsibility to provide an independent review can provide a final check that may prevent the unintended release of PII that can harm people.
 
 
 
@@ -133,6 +135,7 @@ The probability of a breach related to open data can be minimized by a thorough 
 
 
 
+he evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. 
 
 
 
@@ -149,7 +152,7 @@ Manipulating data to deidentify
 
 Example
 
-####Data Quality Assessment
+##Data Quality Assessment
 
 After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. Test de-identification or anonymization . TSeveral elements to look for include: 
 
@@ -178,9 +181,6 @@ Some data that contains PII is often released as open data...
 ###4. Evaluate the Consequences of a PII Breach
 
 
- Examining data to identify for quality issues, and validation, and also the degree to which individuals can be uniquely identified in the data if linked to other sources of information. For example, data that contains unstructured information (such as notes fields) can sometimes contain PII. In some cases, data that has been stripped of names can still be linked to other information to identify unique individuals.
-
-The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII are influenced by the sensitivity of the information. the context in which it is used, and obligations organizations may have to protect the information. Since the selection and definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. 
 
 
 ###9. Collaborate and Learn from Peers 
