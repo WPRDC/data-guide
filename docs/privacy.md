@@ -102,24 +102,27 @@ In addition to Right-to-Know laws, individuals may have certain rights to access
 
 
 ##Privacy Review Process
-Harm
- and a comparison of how other publishers have handled this dataset.
-Some organizations that share open data also incorporate a legal review process as part of the privacy review. 
+
+###Assessing Harm of a Release
+ 
+Many privacy review processes begin with an assessment of harm.   that may nbbe he assessment should also determine if any individuals are significantly harmed by publishing the data. Direct release and also by linkinng this data to other accessible information... 
+
+
+
+
+ 
+
 
 he evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. 
 
 
+####Comparison to Other Communities
+Valuable guidance can be gained from other organizations' policies and practices for publishing open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local sources. Using this data catalog, publishers can quickly see how other government agencies handle privacy issues related to datasets similar to your own.
+
+###Legal Review
+Some organizations that share open data also incorporate a legal review process as part of the privacy review. 
 
 
-
-The assessment should also determine if any individuals are significantly harmed by publishing the data.
-
-Additional aspects of the privacy review can 
-
-
-
-
-####Assessing the Harm Caused by a Data Breach
 
 
 
@@ -129,8 +132,7 @@ The probability of a breach related to open data can be minimized by a thorough 
 
 
 
-####Comparison to Other Communities
-Valuable guidance can be gained from other organizations' policies and practices for managing privacy risks related to open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local sources. 
+
 
 
 
