@@ -119,14 +119,10 @@ The severity of a breach includes potential liability to both individuals and or
 
 
 ####Comparison to Other Communities
-Valuable guidance can be gained from other organizations' policies and practices for publishing open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local sources. Using this data catalog, publishers can quickly see how other government agencies handle privacy issues related to datasets similar to your own.
+Valuable guidance can be gained from other organizations' policies and practices for publishing open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local governments. Using this data catalog, publishers can quickly see how other government agencies handle privacy issues related to datasets similar to your own.
 
 ###Legal Review
-Some organizations that share open data also incorporate a legal review as part of the privacy review process. This review can provide an important check to determine that data sharing does not violate laws or local ordinance, or present undue harm to individuals that may be included in the data. Even if your organization does not have the resources to submit all datasets for a legal review, granting someone else within the organization with the responsibility to provide an independent review can provide a final check that may prevent the unintended release of PII that can harm people.
-
-
-
-
+Some organizations that share open data also incorporate a legal review as part of the privacy review process. This review can provide an important check to determine that data sharing does not violate federal, state, or local privacy legislation and policies, or present undue harm to individuals that may be identified through the data. Even if your organization does not have the resources to submit all datasets for a legal review, granting additional people within the organization with the responsibility to provide an independent review can provide a final check that may prevent the unintended release of PII.
 
 ####Reducing the Likelihood of a Data Breach
 
@@ -154,7 +150,7 @@ Example
 
 ##Data Quality Assessment
 
-After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. Test de-identification or anonymization . TSeveral elements to look for include: 
+After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. Test de-identification or anonymization . Several elements to look for include: 
 
 - Unstructured or semi-structured fields
 that may contain 
