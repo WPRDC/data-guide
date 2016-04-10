@@ -104,7 +104,46 @@ In addition to Right-to-Know laws, individuals may have certain rights to access
 ##Privacy Review Process
 
 ###Assessing Harm of a Release (revise)
- 
+
+The process for identifying the privacy risk in sharing a dataset as open data involves an assessment of the severity of harm that may befall a person from a data release, and an assessment of how probable it is that the release of data will cause harm. This assessment of probability should not be done in isolation. It must also account for harm that may occur if the dataset being assessed is linked to other datasets.  
+
+ADD examples of harm that may come to a person from NST paper here.
+
+
+
+EXAMPLE TABLE HERE from white paper
+
+#### Assessing Severity of a data breach
+
+The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII are influenced by
+* the sensitivity of the information to potential misuse;
+* the context in which the information is used internally; 
+* and obligations governments may have to protect the information
+
+For example, an employee directory and contact information are less sensitive to misuse than a contact listing of undercover police detectives. Similarly, the consequences of breaching a list of student names are different than breaching a list of student names specifically seeking treatment for substance abuse. Both contain the same PII, but the context of uses poses different potential consequences in the event of a breach.  
+
+#### Assessing probability of a data breach. 
+
+####Comparison to Other Communities
+Valuable guidance can be gained from other organizations' policies and practices for publishing open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local governments. Using this data catalog, publishers can quickly see how other government agencies handle privacy issues related to datasets similar to your own. While this information should not take the place of a privacy investment, it can be helpful in informing your approach. 
+
+####Look at Other Communities
+
+#### Legal Obligations and Review
+
+In some cases, PII protections are defined by law or regulation. Names of political campaign donors often must be publicly released, whereas regulations like HIPAA and FERPA restrict the release of PII by law. To ensure that data they release is not going to violate these or other federal, state, and local ordinances, Some organizations that share open data also incorporate a legal review as part of the privacy review process. This review can provide an important check to determine that data sharing does not violate federal, state, or local privacy legislation and policies, or present undue harm to individuals that may be identified through the data. Even if your organization does not have the resources to submit all datasets for a legal review, granting additional people within the organization with the responsibility to provide an independent review can provide a final check that may prevent the unintended release of PII.
+
+#### Deidentification and Anonymization
+
+The presence of protected PII in a database need not pose an insurmountable barrier to the release of data. De-identifying and anonymizing information may be appropriate methods for reducing the risk associated with replicated or retained PII. De-identification involves applying replicable algorithms that remove or obscure any PII such that the de-identified information cannot be used to identify an individual.  The algorithm used for de-identification should be maintained in a location separate from the respective data with appropriate safeguards and access controls. In de-identification, the de-identification algorithm can be used to reconstitute the original PII from de-identified data. 
+
+In contrast, anonymized information cannot be used to reconstitute the original, individual methods. Anonymization methods include generalization (grouping records by category or geographic area), suppressing data, or introducing noise by swapping values of individuals fields or replacing individual values with summary statistics. While PII is removed, anonymized data loose granulator of information the individual record level and are often less useful for research and decision support.     
+
+
+
+
+THE NEXT SECTION LIKELY TO BE DELETED
+**** 
 Many privacy review processes begin with an assessment of harm.   that may nbbe he assessment should also determine if any individuals are significantly harmed by publishing the data. Direct release and also by linkinng this data to other accessible information... Some PII is routinely released as open data (examples)
 
 Examining data to identify for quality issues, and validation, and also the degree to which individuals can be uniquely identified in the data if linked to other sources of information. For example, data that contains unstructured information (such as notes fields) can sometimes contain PII. In some cases, data that has been stripped of names can still be linked to other information to identify unique individuals.
@@ -112,17 +151,8 @@ Examining data to identify for quality issues, and validation, and also the degr
 The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII are influenced by the sensitivity of the information. the context in which it is used, and obligations organizations may have to protect the information. Since the selection and definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. 
 
 
-
- 
-
-
-
-
-####Comparison to Other Communities
-Valuable guidance can be gained from other organizations' policies and practices for publishing open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local governments. Using this data catalog, publishers can quickly see how other government agencies handle privacy issues related to datasets similar to your own.
-
 ###Legal Review
-Some organizations that share open data also incorporate a legal review as part of the privacy review process. This review can provide an important check to determine that data sharing does not violate federal, state, or local privacy legislation and policies, or present undue harm to individuals that may be identified through the data. Even if your organization does not have the resources to submit all datasets for a legal review, granting additional people within the organization with the responsibility to provide an independent review can provide a final check that may prevent the unintended release of PII.
+
 
 ####Reducing the Likelihood of a Data Breach
 
@@ -132,9 +162,6 @@ The probability of a breach related to open data can be minimized by a thorough 
 
 
 he evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. 
-
-
-
 
 ####De-identification and Anonymization
 
@@ -197,12 +224,24 @@ Organize in this way instead of #'s 1-10
 - Data management to prevent accidental release
 - Responding to accidental release
 
-
+PICK UP HERE
 
 
 ##How to Reduce the Risk of Accidentally Releasing PII or other sensitive information
 There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
 
+####Data Quality Assessment - some work to do here... Reference section
+
+After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. Test de-identification or anonymization . Several elements to look for include: 
+
+- Unstructured or semi-structured fields, such as notes fields. These may contain PII, and should be removed before the data isshared as open data.
+
+- Fields with inconsistent content
+Can be caused by improper sorting or other errors in managing data - look for inconsistency in a data field
+
+- Check de-identified data
+
+- Check to be sure no unique records in anonymized data.
 
 
 #### Inventory PII
