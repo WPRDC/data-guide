@@ -142,6 +142,55 @@ In contrast, anonymized information cannot be used to reconstitute the original,
 
 
 
+
+##How to Reduce the Risk of Accidentally Releasing PII or other sensitive information
+There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
+
+####Data Quality Assessment - some work to do here... Reference section
+
+After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. Test de-identification or anonymization . Several elements to look for include: 
+
+- Unstructured or semi-structured fields, such as notes fields. These may contain PII, and should be removed before the data isshared as open data.
+
+- Fields with inconsistent content
+Can be caused by improper sorting or other errors in managing data - look for inconsistency in a data field
+
+- Check de-identified data
+
+- Check to be sure no unique records in anonymized data.
+
+
+#### Inventory PII
+Developing a catalog of the PII is held by the organization can inform internal processes and procedures designed to protect privacy. This inventory can include information about: 
+- what type of PII exists
+- file structures and formats
+-  data is created, managed and used, 
+- access and retention policies, and
+- applicable laws and policies governing the data.
+
+####  Eliminate Unnecessary Collection and Retention of PII
+Organizations shouldn't collect PII unless the information is essential. Where feasible, governments can also reduce the risk of a PII breach by eliminating unnecessary copies of data containing PII. 
+
+#### Develop Information Security Policies and Procedures  
+Local governments can reduce the risk of a breach of PII by developing and applying policies and procedures for data security, access, and management throughout the life cycle of data. Additional protections that can be adopted by local governments include developing information retention schedules, storage, and disposal procedures. It's a good practice to document these processes, reference them in matadata, and share them with others in the organization. 
+
+
+
+#### Develop policies and procedures for managing a breach 
+Organizations can limit consequences by developing a breach management plan that outlines policies and procedures for managing a breach, and staff that should be involved in the response. Responses to breaches should be proactive, timely, and efficient. The breach management plan can include a timeline of breach responses policies and procedures. If a breach is suspected, the response team should clearly investigate details associated with the breach, including an estimate of the number of individuals potentially affected, the likelihood the information will be used to cause harm, and the severity of the consequences. The breach management plan should also include communication protocols for internal audiences, the media, and individuals that may have been directly affected.  
+
+#### Create Education and Training Programs
+Education and training can help individual staff and the organization take appropriate measures to reduce the risk of a confidentiality breach. Educational materials could include a definition of PII, and a description of applicable privacy laws, regulations, and policies. Training can cover data management plans and practices, and can also address actions to take in response to a breach.
+
+#### Be Transparent
+Sharing information on open data plans and policies can result in valuable feedback to the data publisher. This information can be used to develop publication priorities, educate data users, and enhance efforts to protect privacy. Also share information on what was done to protect sensitive information in the metadata...
+
+#### Establish Periodic Reviews of PII Policies and Procedures
+Legal and legislative standards, security controls, information technology, and the information itself will all change over time.  Maintaining effective practices to protect PII will require a commitment to routinely revisiting internal policies and procedures.
+
+
+
+
 THE NEXT SECTION LIKELY TO BE DELETED
 **** 
 Many privacy review processes begin with an assessment of harm.   that may nbbe he assessment should also determine if any individuals are significantly harmed by publishing the data. Direct release and also by linkinng this data to other accessible information... Some PII is routinely released as open data (examples)
@@ -225,53 +274,4 @@ Organize in this way instead of #'s 1-10
 - Responding to accidental release
 
 PICK UP HERE
-
-
-##How to Reduce the Risk of Accidentally Releasing PII or other sensitive information
-There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
-
-####Data Quality Assessment - some work to do here... Reference section
-
-After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. Test de-identification or anonymization . Several elements to look for include: 
-
-- Unstructured or semi-structured fields, such as notes fields. These may contain PII, and should be removed before the data isshared as open data.
-
-- Fields with inconsistent content
-Can be caused by improper sorting or other errors in managing data - look for inconsistency in a data field
-
-- Check de-identified data
-
-- Check to be sure no unique records in anonymized data.
-
-
-#### Inventory PII
-Developing a catalog of the PII is held by the organization can inform internal processes and procedures designed to protect privacy. This inventory can include information about: 
-- what type of PII exists
-- file structures and formats
--  data is created, managed and used, 
-- access and retention policies, and
-- applicable laws and policies governing the data.
-
-####  Eliminate Unnecessary Collection and Retention of PII
-Organizations shouldn't collect PII unless the information is essential. Where feasible, governments can also reduce the risk of a PII breach by eliminating unnecessary copies of data containing PII. 
-
-#### Develop Information Security Policies and Procedures  
-Local governments can reduce the risk of a breach of PII by developing and applying policies and procedures for data security, access, and management throughout the life cycle of data. Additional protections that can be adopted by local governments include developing information retention schedules, storage, and disposal procedures. It's a good practice to document these processes, reference them in matadata, and share them with others in the organization. 
-
-
-
-#### Develop policies and procedures for managing a breach 
-Organizations can limit consequences by developing a breach management plan that outlines policies and procedures for managing a breach, and staff that should be involved in the response. Responses to breaches should be proactive, timely, and efficient. The breach management plan can include a timeline of breach responses policies and procedures. If a breach is suspected, the response team should clearly investigate details associated with the breach, including an estimate of the number of individuals potentially affected, the likelihood the information will be used to cause harm, and the severity of the consequences. The breach management plan should also include communication protocols for internal audiences, the media, and individuals that may have been directly affected.  
-
-#### Create Education and Training Programs
-Education and training can help individual staff and the organization take appropriate measures to reduce the risk of a confidentiality breach. Educational materials could include a definition of PII, and a description of applicable privacy laws, regulations, and policies. Training can cover data management plans and practices, and can also address actions to take in response to a breach.
-
-#### Be Transparent
-Sharing information on open data plans and policies can result in valuable feedback to the data publisher. This information can be used to develop publication priorities, educate data users, and enhance efforts to protect privacy. Also share information on what was done to protect sensitive information in the metadata...
-
-#### Establish Periodic Reviews of PII Policies and Procedures
-Legal and legislative standards, security controls, information technology, and the information itself will all change over time.  Maintaining effective practices to protect PII will require a commitment to routinely revisiting internal policies and procedures.
-
-
-
 
