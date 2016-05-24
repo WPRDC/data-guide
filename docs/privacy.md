@@ -100,34 +100,36 @@ Additional information about Pennsylvania’s Right-to-Know Law, including a lis
 
 In addition to Right-to-Know laws, individuals may have certain rights to access or be aware of information that pertains to them.  
 
-
 ##Privacy Review Process
 
-###Assessing Harm of a Release (revise)
+###Assessing Harm of a Release 
 
 The process for identifying the privacy risk in sharing a dataset as open data involves an assessment of the severity of harm that may befall a person from a data release, and an assessment of how probable it is that the release of data will cause harm. This assessment of probability should not be done in isolation. It must also account for harm that may occur if the dataset being assessed is linked to other datasets.  
 
-ADD examples of harm that may come to a person from NST paper here.
+In its Guide to Protecting the Confidentiality of Personally Identifiable Information (2010), the National Institute of Standards and Technology (NIST) describes three impact levels that describe the harm that may befall people as a result of distributing data containing PII.
+
+* LOW impact means that an individual may face an inconvenience, such as having to change a phone number. 
+* MODERATE impacts can include monetary loss due to identity theft, discrimination, denial of benefits, and possible blackmail. 
+* HIGH impacts include "serious physical, social, or financial harm, resulting in potential loss of life, loss of livelihood, or inappropriate physical detention." (NIST 2010)
+
+When assessing the harm of a potential data release, it's important to give special consideration of harm that may occur to vulnerable populations, including those who may be at elevated risk of becoming a crime victim. These populations can include children, older adults, victims of violent crime, those under protection from abusers, crime witnesses, informants, first responders, and those that may be targeted because of their race, gender preferences, or sexual orientation.
+
+It's often helpful to walk through scenarios to identify the potential harm that may result from a data release. We encourage making this scenario development a group effort by including other members of your organization in this process. Several questions can guide your organization in this exercise, including:
+
+* Is our organization obligated to share this data (matter of public record, court order, etc)?
+* Is there any PII included in this dataset?
+** If so, what type of information is included?
+** What fields contain the data?
+* Can this dataset be linked to other data (public or private) to reveal PII? 
+* What types of harm might be caused by release of this data, if any?
+** If releasing this data can cause harm, is the impact LOW, MODERATE, or SEVERE?
+
+Of course, here at the Regional Data Center, we are always available to help you with this process. Please let us know how we can help.
 
 
-
-EXAMPLE TABLE HERE from white paper
-
-#### Assessing Severity of a data breach
-
-The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII are influenced by
-* the sensitivity of the information to potential misuse;
-* the context in which the information is used internally; 
-* and obligations governments may have to protect the information
-
-For example, an employee directory and contact information are less sensitive to misuse than a contact listing of undercover police detectives. Similarly, the consequences of breaching a list of student names are different than breaching a list of student names specifically seeking treatment for substance abuse. Both contain the same PII, but the context of uses poses different potential consequences in the event of a breach.  
-
-#### Assessing probability of a data breach. 
 
 ####Comparison to Other Communities
 Valuable guidance can be gained from other organizations' policies and practices for publishing open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local governments. Using this data catalog, publishers can quickly see how other government agencies handle privacy issues related to datasets similar to your own. While this information should not take the place of a privacy investment, it can be helpful in informing your approach. 
-
-####Look at Other Communities
 
 #### Legal Obligations and Review
 
@@ -137,11 +139,7 @@ In some cases, PII protections are defined by law or regulation. Names of politi
 
 The presence of protected PII in a database need not pose an insurmountable barrier to the release of data. De-identifying and anonymizing information may be appropriate methods for reducing the risk associated with replicated or retained PII. De-identification involves applying replicable algorithms that remove or obscure any PII such that the de-identified information cannot be used to identify an individual.  The algorithm used for de-identification should be maintained in a location separate from the respective data with appropriate safeguards and access controls. In de-identification, the de-identification algorithm can be used to reconstitute the original PII from de-identified data. 
 
-In contrast, anonymized information cannot be used to reconstitute the original, individual methods. Anonymization methods include generalization (grouping records by category or geographic area), suppressing data, or introducing noise by swapping values of individuals fields or replacing individual values with summary statistics. While PII is removed, anonymized data loose granulator of information the individual record level and are often less useful for research and decision support.     
-
-
-
-
+In contrast, anonymized information cannot be used to reconstitute the original, individual methods. Anonymization methods include generalization (grouping records by category or geographic area), suppressing data, or introducing noise by swapping values of individuals fields or replacing individual values with summary statistics. While PII is removed, anonymized data are often less useful for research and decision support.     
 
 ##How to Reduce the Risk of Accidentally Releasing PII or other sensitive information
 There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
@@ -150,7 +148,7 @@ There are several actions your organization can take to minimize the risk of acc
 
 After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. Test de-identification or anonymization . Several elements to look for include: 
 
-- Unstructured or semi-structured fields, such as notes fields. These may contain PII, and should be removed before the data isshared as open data.
+- Unstructured or semi-structured fields, such as notes fields. These may contain PII, and should be removed before the data is shared as open data.
 
 - Fields with inconsistent content
 Can be caused by improper sorting or other errors in managing data - look for inconsistency in a data field
@@ -175,7 +173,6 @@ Organizations shouldn't collect PII unless the information is essential. Where f
 Local governments can reduce the risk of a breach of PII by developing and applying policies and procedures for data security, access, and management throughout the life cycle of data. Additional protections that can be adopted by local governments include developing information retention schedules, storage, and disposal procedures. It's a good practice to document these processes, reference them in matadata, and share them with others in the organization. 
 
 
-
 #### Develop policies and procedures for managing a breach 
 Organizations can limit consequences by developing a breach management plan that outlines policies and procedures for managing a breach, and staff that should be involved in the response. Responses to breaches should be proactive, timely, and efficient. The breach management plan can include a timeline of breach responses policies and procedures. If a breach is suspected, the response team should clearly investigate details associated with the breach, including an estimate of the number of individuals potentially affected, the likelihood the information will be used to cause harm, and the severity of the consequences. The breach management plan should also include communication protocols for internal audiences, the media, and individuals that may have been directly affected.  
 
@@ -191,38 +188,6 @@ Legal and legislative standards, security controls, information technology, and 
 
 
 
-THE NEXT SECTION LIKELY TO BE DELETED
-**** 
-Many privacy review processes begin with an assessment of harm.   that may nbbe he assessment should also determine if any individuals are significantly harmed by publishing the data. Direct release and also by linkinng this data to other accessible information... Some PII is routinely released as open data (examples)
-
-Examining data to identify for quality issues, and validation, and also the degree to which individuals can be uniquely identified in the data if linked to other sources of information. For example, data that contains unstructured information (such as notes fields) can sometimes contain PII. In some cases, data that has been stripped of names can still be linked to other information to identify unique individuals.
-
-The severity of a breach includes potential liability to both individuals and organizations.  The severity are a breach of PII are influenced by the sensitivity of the information. the context in which it is used, and obligations organizations may have to protect the information. Since the selection and definition of severity categories are subjective, staff might openly discuss examples of consequences that meet the various severity criteria. 
-
-
-###Legal Review
-
-
-####Reducing the Likelihood of a Data Breach
-
-The probability of a breach related to open data can be minimized by a thorough a thorough review of information being shared as open data, and the implementation of data management plans and practices designed to reduce the opportunity for unintentional disclosure. 
-
-
-
-
-he evaluation can also provide guidance in what data de-identification and anonymization practices would need to be applied prior to release. 
-
-####De-identification and Anonymization
-
-- Deidentification
-Remove PII from the dataset
-
-Example
-
-- Anonymization
-Manipulating data to deidentify
-
-Example
 
 ##Data Quality Assessment
 
@@ -248,21 +213,9 @@ Can be caused by improper sorting or other errors in managing data - look for in
 
 
 
-Some data that contains PII is often released as open data...
-
-###4. Evaluate the Consequences of a PII Breach
 
 
-
-
-###9. Collaborate and Learn from Peers 
-
-
-
-
-##Evaluating Harm
-
-###10 Contact the Western Pennsylvania Regional Data Center
+### Contact the Western Pennsylvania Regional Data Center
 The Regional Data Center is here to help your organization responsibly share data. We encourage you to contact us if you have any questions about protecting privacy or sharing data. We also are planning to develop resources and other materials to help you and your organization responsibly manage and share information.
 
 
