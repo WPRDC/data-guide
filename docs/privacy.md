@@ -1,10 +1,5 @@
 #Protecting Privacy
 
-https://ico.org.uk/for-organisations/guide-to-data-protection/data-protection-principles/
-
-http://www.seattle.gov/information-technology/privacy-program/privacy-statement
-
-
 ##Introduction
 Open data publishing requires policies, procedures, and actions to protect individuals and organizations from unintentional sharing of personally identifiable information (PII). In some cases, sharing data including PII can cause people serious harm. The proliferation of digital public records, data contained in social media, inadequate policies for managing and protecting PII, and inconsistent data management practices increase the likelihood that PII can be combined across multiple sources to uniquely identify an individual. This section of the guide is designed to help publishers identify PII, and take steps to minimize the risk and harm of a breach. 
 
@@ -104,7 +99,7 @@ In addition to Right-to-Know laws, individuals may have certain rights to access
 
 ##Privacy Review Process
 
-###Assessing Harm of a Release 
+####Assessing Harm of a Release 
 
 The process for identifying the privacy risk in sharing a dataset as open data involves an assessment of the severity of harm that may befall a person from a data release, and an assessment of how probable it is that the release of data will cause harm. This assessment of probability should not be done in isolation. It must also account for harm that may occur if the dataset being assessed is linked to other datasets.  
 
@@ -118,15 +113,6 @@ In its Guide to Protecting the Confidentiality of Personally Identifiable Inform
 
 When assessing the harm of a potential data release, it's important to give special consideration of harm that may occur to vulnerable populations, including those who may be at elevated risk of becoming a crime victim. These populations can include children, older adults, victims of violent crime, those under protection from abusers, crime witnesses, informants, first responders, and those that may be targeted because of their race, gender preferences, or sexual orientation.
 
-#### Scenario Walk-Through
-It's often helpful to walk through scenarios to identify the potential harm that may result from a data release. We encourage making this scenario development a group effort by including other members of your organization in this process. Several questions can guide your organization in this exercise, including:
-
-* Is our organization obligated to share this data (matter of public record, court order, etc)?
-* Is there any PII included in this dataset? If so, what type of information is included?
-* Can this dataset be linked to other data (public or private) to reveal PII? 
-* What types of harm might be caused by release of this data, if any?
-* If harm can be caused by our releasing this data, is the impact LOW, MODERATE, or SEVERE?
-
 ####Comparison to Other Communities
 Valuable guidance can be gained from other organizations' policies and practices for publishing open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local governments. Using this data catalog, publishers can quickly see how other government agencies handle privacy issues related to datasets similar to your own. While this information should not take the place of a privacy investment, it can be helpful in informing your approach. 
 
@@ -134,16 +120,24 @@ Valuable guidance can be gained from other organizations' policies and practices
 
 In some cases, PII protections are defined by law or regulation. Names of political campaign donors often must be publicly released, whereas regulations like HIPAA and FERPA restrict the release of PII by law. To ensure that data they release is not going to violate these or other federal, state, and local ordinances, Some organizations that share open data also incorporate a legal review as part of the privacy review process. This review can provide an important check to determine that data sharing does not violate federal, state, or local privacy legislation and policies, or present undue harm to individuals that may be identified through the data. Even if your organization does not have the resources to submit all datasets for a legal review, granting additional people within the organization with the responsibility to provide an independent review can provide a final check that may prevent the unintended release of PII.
 
-#### Deidentification and Anonymization
+#### Scenario Walk-Through
+It's often helpful to walk through scenarios to identify the potential harm that may result from a data release. We encourage making this scenario development a group effort by including other members of your organization in this process. Several questions can guide your organization in this exercise, including:
+
+* Is there any PII included in this dataset? If so, what type of information is included?
+* Can this dataset be linked to other data (public or private) to reveal PII? 
+* What types of harm might be caused by release of this data, if any?
+* If harm can be caused by our releasing this data, is the impact LOW, MODERATE, or SEVERE?
+
+## Reducing Risk Through Deidentification and Anonymization Processes
 
 The presence of protected PII in a database need not pose an insurmountable barrier to the release of data. De-identifying and anonymizing information may be appropriate methods for reducing the risk associated with replicated or retained PII. De-identification involves applying replicable algorithms that remove or obscure any PII such that the de-identified information cannot be used to identify an individual.  The algorithm used for de-identification should be maintained in a location separate from the respective data with appropriate safeguards and access controls. In de-identification, the de-identification algorithm can be used to reconstitute the original PII from de-identified data. 
 
 In contrast, anonymized information cannot be used to reconstitute the original, individual methods. Anonymization methods include generalization (grouping records by category or geographic area), suppressing data, or introducing noise by swapping values of individuals fields or replacing individual values with summary statistics. While PII is removed, anonymized data are often less useful for research and decision support.     
 
-##How to Reduce the Risk of Accidentally Releasing PII or other sensitive information
+##How to Reduce the Risk of Accidentally Releasing PII or Other Sensitive Information
 There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
 
-####Data Quality Assessment - some work to do here... Reference section
+####Data Quality Assessment
 
 After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. It's also worthwhile testing processes used for data de-identification or anonymization.
 
@@ -161,7 +155,7 @@ Developing a catalog of the PII is held by the organization can inform internal 
 - access and retention policies, and
 - applicable laws and policies governing the data.
 
-####  Eliminate Unnecessary Collection and Retention of PII
+#### Eliminate Unnecessary Collection and Retention of PII
 Organizations shouldn't collect PII unless the information is essential. Where feasible, governments can also reduce the risk of a PII breach by eliminating unnecessary copies of data containing PII. 
 
 #### Develop Information Security Policies and Procedures  
@@ -179,5 +173,5 @@ Sharing information on open data plans and policies can result in valuable feedb
 #### Establish Periodic Reviews of PII Policies and Procedures
 Legal and legislative standards, security controls, information technology, and the information itself will all change over time.  Maintaining effective practices to protect PII will require a commitment to routinely revisiting internal policies and procedures.
 
-### Contact the Western Pennsylvania Regional Data Center
+## Contact the Western Pennsylvania Regional Data Center for Help
 The Regional Data Center is here to help your organization responsibly share data. We encourage you to contact us if you have any questions about protecting privacy or sharing data. We also are planning to develop resources and other materials to help you and your organization responsibly manage and share information.
