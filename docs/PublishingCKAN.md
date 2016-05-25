@@ -95,7 +95,7 @@ Public datasets are visible to all, and private datasets are only visible to oth
 An explanation of any general steps that have been taken to make a sensitive dataset public, where appropriate, including obfuscation, aggregation, or anonymization.
 
 ###### Temporal Coverage
-Start/End periods covered by the data. Separate start and end by a "/". Use years (YYYY), dates (YYYY-MM-DD), or dates and times (YYY-MM-DD"T"HHMMSS) Examples:4 digit year (2013/2015), Date (2011-02-14/2013-07-04), Date/Time (2011-02-14T12:00:00Z/2013-07-04T19:34:00Z)
+Start/End periods covered by the data. Separate start and end by a "/". Use years (YYYY), dates (YYYY-MM-DD), or dates and times (YYY-MM-DD"T"HHMMSS). If the data is a snapshot from a particular date or year, please omit the "/".  Examples: 4 digit year range (2013/2015), date range (2011-02-14/2013-07-04), date/time range (2011-02-14T12:00:00Z/2013-07-04T19:34:00Z), 1 year (2015), single date (2/16/2016).
 
 ###### Geographic Unit
 At what geographic unit is the data collected? For example, if the data is collected by address, it would be Street Address. This information is entered using a drop-down menu.
