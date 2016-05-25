@@ -65,7 +65,7 @@ We also don’t require all of the metadata elements to be completed when data i
 
 It should take about 5 minutes to complete a metadata entry for a dataset. It shouldn’t need to be updated unless some of the details have changed.
 
-###### Title (Required)
+##### Title (Required)
 Short human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery. Avoid acronyms. Use "title case" spelling, and no need to list dates. Don't include the organization name here.
 
 ###### URL
