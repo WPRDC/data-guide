@@ -135,14 +135,17 @@ The data dictionary can also include information about each field in the data:
 
 #### Creating a Resource Within a Dataset
 
-The second step in the process involves creating resources within each dataset.
+The second step in the process involves creating resources within each dataset. The process includes: 
 
-Link or embed screen capture
+1. Naming each resource
+2. Providing a description for the resource
+3. Locating the file
+4. Specifying the file type
 
-- creating views
+### Adding a Data View
 
 
-### add data to groups
+### Add Data to Additional Groups
 
 All data published through the open data portal should be assigned to one or more groups. Groups are topical categories that make it easier for users to find information by topical area. On the open data portal, there are 16 groups designated. The primary group assignment for a dataset should be made through the metadata record, however datasets can be assigned to multiple groups if appropriate.
 
