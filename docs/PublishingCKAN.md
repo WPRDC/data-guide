@@ -19,27 +19,27 @@ The open data portal used by the Regional Data Center is powered by open source 
 
 ### Creating a CKAN Account
 
-Creating an account on CKAN involves visiting the Regional Data Center website <https://data.wprdc.org/user/register> and entering a user name, password, and email address.
+Creating an account on CKAN involves visiting the [Regional Data Center Website] (https://data.wprdc.org/user/register) and entering a user name, password, and email address.
 
 Regional Data Center staff or your organization's administrator will also associate your CKAN acount with the aqppropriate organization.
 
 ### Logging-in to CKAN
 
-To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. To login, please visit <https://data.wprdc.org/user/login>
+To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. To login, please visit the Regional Data Center's [login page] (https://data.wprdc.org/user/login).
 
 ### Accounts and Roles
-
-All accounts initially created on CKAN lack publishing permissions. To publish data, your account will need to have either an editor or admin role. 
-
-Only the Regional Data Center or the designated CKAN administrator at your organization is able to assign the appropriate role to your account. 
-
-You will need to provide them with your CKAN user name to assign you as an administrator ror editor.
 
 Accounts in CKAN can have one of three roles. The roles available within CKAN include:
 
 * member: members can view private datasets owned by their organization, but cannot add data to the site.
 * editor: can edit, read and create new objects on CKAN
 * admin: admin can do anything including: edit, read, delete, and update permissions (change authorizations for that object)
+
+All accounts initially created on CKAN lack publishing permissions. To publish data, your account will need to have either an editor or admin role. 
+
+Only the Regional Data Center or the designated CKAN administrator at your organization is able to assign the appropriate role to your account. 
+
+You will need to provide them with your CKAN user name to assign you as an administrator ror editor.
 
 Within an organization, we'd like there to be a primary point of contact that can coordinate among all publishers within your organization, if applicable.
 
@@ -52,12 +52,11 @@ Within an organization, we'd like there to be a primary point of contact that ca
 
 ### Creating a Dataset
 
-Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. 
+Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. The second involves the uploading of resources. 
 
 ####Metadata
 
-The first step in the process of creating a dataset involves the creation of a metadata record. 
-Metadata is a structured framework for documenting data. The metadata standard we’re using is largely based on one used by San Francisco and U.S. Data.gov. Were also grateful for advice from Digital Scholarship Services at the University of Pittsburgh
+The first step in the process of creating a dataset involves the creation of a metadata record. Metadata is a structured framework for documenting data. The metadata standard we’re using is largely based on one used by San Francisco and U.S. Data.gov. Were also grateful for advice from Digital Scholarship Services at the University of Pittsburgh
 
 We’ve programmed the open data portal software to automatically complete some of the metadata. We’ve also provided drop-down forms saving you from having to type pre-defined responses where possible.
 
@@ -65,53 +64,53 @@ We also don’t require all of the metadata elements to be completed when data i
 
 It should take about 5 minutes to complete a metadata entry for a dataset. It shouldn’t need to be updated unless some of the details have changed.
 
-##### Title (Required)
+###### Title (Required)
 Short human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery. Avoid acronyms. Use "title case" spelling, and no need to list dates. Don't include the organization name here.
 
 ###### URL
-URL link to the dataset landing page on the open data portal.
+URL link to the dataset landing page on the open data portal. This field is automatically populated by the software.
 
 ###### Description (Required)
 Provide a longer description of the data (compared to the title) written in plain language that can be readily understood by non-technical users. It's a good practice to include your organization's name in the description 
 
 ###### Tags (Required)
-Keywords that describe the dataset. Enter separated by semicolons. Acronyms acceptable. Use technical and non-technical terms. Use as many as needed. Use plural forms of the word, and also singular forms if different from plural (i.e. leaf/leaves, wife/wives)
+Keywords that describe the dataset. Enter separated by semicolons. Acronyms acceptable. Use technical and non-technical terms. Use as many as needed. Use plural forms of the word, and also singular forms if different from plural (i.e. leaf/leaves, wife/wives).
 
 ###### License (Required)
-License definitions and additional information can be found at http://opendefinition.org/
+License definitions and additional information on licenses can be found on the [Creative Commons Website] (https://creativecommons.org/licenses/) and the [Open Definition Website] (http://opendefinition.org/licenses/). A [Public Domain Dedication] (https://wiki.creativecommons.org/wiki/Public_domain) in lieu of a license is also a choice that will allow for maximum re-use of your data if no copyright is present. This information is entered using a drop-down menu.
  
 ###### Group/Topic (Required)
-The group/topic of the dataset identified by the list of possible values. If a data set can fall into multiple categories, select the one which is most significant. This list will be subject to change on an ongoing basis. The WPRDC will refine this list as we proceed.
+The group/topic of the dataset identified by the list of possible values. If a data set can fall into multiple categories, select the one which is most-appropriate. This information is entered using a drop-down menu.
 
 ###### Organization (Required)
-Name of the organization sharing data. Must have data deposit agreement with WPRDC
+Name of the organization sharing data. This information is entered using a drop-down menu.
 
 ###### Department
-Name of the data source department or division (if applicable).
+Name of the data source department or division (if applicable). This information is entered using a drop-down menu. If no choices are provided, please leave it blank.
 
 ###### Access Level
-Public datasets are visible to all, and private datasets are only visible to other users in the same organization. New datasets should be set as Private to be reviewed prior to being set as Public.
+Public datasets are visible to all, and private datasets are only visible to other users in the same organization. New datasets should be set as Private at the time of publication. The Regional Data Center will review the data as a final privacy check, and will set it as Public if no privacy issues are present. This information is entered using a drop-down menu.
 
 ###### Public Access Level Comment
-An explanation of any steps that have been taken to make a sensitive dataset public, where appropriate, including obfuscation, aggregation, or anonymization.
+An explanation of any general steps that have been taken to make a sensitive dataset public, where appropriate, including obfuscation, aggregation, or anonymization.
 
 ###### Temporal Coverage
 Start/End periods covered by the data. Separate start and end by a "/". Use years (YYYY), dates (YYYY-MM-DD), or dates and times (YYY-MM-DD"T"HHMMSS) Examples:4 digit year (2013/2015), Date (2011-02-14/2013-07-04), Date/Time (2011-02-14T12:00:00Z/2013-07-04T19:34:00Z)
 
 ###### Geographic Unit
-At what geographic unit is the data collected? For example, if the data is collected by address, it would be Street Address.
+At what geographic unit is the data collected? For example, if the data is collected by address, it would be Street Address. This information is entered using a drop-down menu.
 
 ###### Data Notes
 Are there any concerns about overall data reliability? Are there any changes in data collection or methods that the user should be aware of? Are there any constraints with data accuracy? What levels of confidence with this dataset could the user reasonably assume?
 
 ###### Related Documents
-Related documents such as technical information about a dataset, developer documentation, etc.
+Related documents such as technical information about a dataset, developer documentation, URL, etc.
 
 ###### Frequency - Data Change (Required)
-Frequency with which dataset changes. This can be a relative frequency - If the file changes every 1st and 4th Monday, we can code this as bi-monthly, etc.
+Frequency with which dataset changes. This can be a relative frequency - If the file changes every 1st and 4th Monday, we can code this as bi-monthly, etc. This information is entered using a drop-down menu.
 
 ###### Frequency - Publishing (Required)
-Frequency with which dataset is published.
+Frequency with which dataset is published. This information is entered using a drop-down menu.
 
 ###### Data Steward Name (Required)
 Data Steward's name. Who manages the data and is responsible for making changes to the data? Who understands what the dataset includes and can answer questions about it?
