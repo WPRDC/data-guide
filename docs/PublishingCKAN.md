@@ -123,6 +123,8 @@ Data Steward's name. Who manages the data and is responsible for making changes 
 ###### Data Steward Email (Required)
 Data Steward's email address.
 
+![alt text](Create a Dataset Instructions.gif "Add a dataset")
+
 #### Data Dictionary
 We also strongly encourage publishers to provide a data dictionary for each data table. Data dictionaries help data users understand the underlying structure of the data file. The data dictionary can be created in a spreadsheet, saved in .csv format, and uploaded to the dataset as a resource. This data dictionary should include (at minimum): 
 
