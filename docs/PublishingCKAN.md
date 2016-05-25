@@ -123,6 +123,7 @@ Data Steward's name. Who manages the data and is responsible for making changes 
 ###### Data Steward Email (Required)
 Data Steward's email address.
 
+##### We recorded a video to show how the process works...
 ![alt text](Create a Dataset Instructions.gif "Add a dataset")
 
 #### Data Dictionary
@@ -144,10 +145,13 @@ The data dictionary can also include information about each field in the data:
 
 The second step in the process involves creating resources within each dataset. The process includes: 
 
-1. Naming each resource
-2. Providing a description for the resource
-3. Locating the file
+1. Locating the file
+2. Naming each resource
+3. Providing a description for the resource
 4. Specifying the file type
+
+We also recorded a video showing how to add a resource for a dataset.
+![alt text](Create a Resource Instructions.gif "Add a resource")
 
 ### Adding a Data View
 
