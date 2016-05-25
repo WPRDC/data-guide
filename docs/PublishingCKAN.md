@@ -21,7 +21,7 @@ The open data portal used by the Regional Data Center is powered by open source 
 
 Creating an account on CKAN involves visiting the [Regional Data Center Website] (https://data.wprdc.org/user/register) and entering a user name, password, and email address.
 
-Regional Data Center staff or your organization's administrator will also associate your CKAN acount with the aqppropriate organization.
+Regional Data Center staff or your organization's administrator will also associate your CKAN acount with the appropriate organization.
 
 ### Logging-in to CKAN
 
