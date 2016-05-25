@@ -68,57 +68,58 @@ It should take about 5 minutes to complete a metadata entry for a dataset. It sh
 ###### Title (Required)
 Short human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery. Avoid acronyms. Use "title case" spelling, and no need to list dates. Don't include the organization name here.
 
-* URL
+###### URL
 URL link to the dataset landing page on the open data portal.
 
-* Description (Required)
+###### Description (Required)
 Provide a longer description of the data (compared to the title) written in plain language that can be readily understood by non-technical users. It's a good practice to include your organization's name in the description 
 
-* Tags (Required)
+###### Tags (Required)
 Keywords that describe the dataset. Enter separated by semicolons. Acronyms acceptable. Use technical and non-technical terms. Use as many as needed. Use plural forms of the word, and also singular forms if different from plural (i.e. leaf/leaves, wife/wives)
 
-* License (Required)
+###### License (Required)
 License definitions and additional information can be found at http://opendefinition.org/
  
-* Group/Topic (Required)
+###### Group/Topic (Required)
 The group/topic of the dataset identified by the list of possible values. If a data set can fall into multiple categories, select the one which is most significant. This list will be subject to change on an ongoing basis. The WPRDC will refine this list as we proceed.
 
-* Organization (Required)
+###### Organization (Required)
 Name of the organization sharing data. Must have data deposit agreement with WPRDC
 
-* Department
+###### Department
 Name of the data source department or division (if applicable).
 
-* Access Level
+###### Access Level
 Public datasets are visible to all, and private datasets are only visible to other users in the same organization. New datasets should be set as Private to be reviewed prior to being set as Public.
 
-* Public Access Level Comment
+###### Public Access Level Comment
 An explanation of any steps that have been taken to make a sensitive dataset public, where appropriate, including obfuscation, aggregation, or anonymization.
 
-* Temporal Coverage
+###### Temporal Coverage
 Start/End periods covered by the data. Separate start and end by a "/". Use years (YYYY), dates (YYYY-MM-DD), or dates and times (YYY-MM-DD"T"HHMMSS) Examples:4 digit year (2013/2015), Date (2011-02-14/2013-07-04), Date/Time (2011-02-14T12:00:00Z/2013-07-04T19:34:00Z)
 
-* Geographic Unit
+###### Geographic Unit
 At what geographic unit is the data collected? For example, if the data is collected by address, it would be Street Address.
 
-* Data Notes
+###### Data Notes
 Are there any concerns about overall data reliability? Are there any changes in data collection or methods that the user should be aware of? Are there any constraints with data accuracy? What levels of confidence with this dataset could the user reasonably assume?
 
-* Related Documents
+###### Related Documents
 Related documents such as technical information about a dataset, developer documentation, etc.
 
-* Frequency - Data Change (Required)
+###### Frequency - Data Change (Required)
 Frequency with which dataset changes. This can be a relative frequency - If the file changes every 1st and 4th Monday, we can code this as bi-monthly, etc.
 
-* Frequency - Publishing (Required)
+###### Frequency - Publishing (Required)
 Frequency with which dataset is published.
 
-* Data Steward Name (Required)
+###### Data Steward Name (Required)
 Data Steward's name. Who manages the data and is responsible for making changes to the data? Who understands what the dataset includes and can answer questions about it?
 
-* Data Steward Email (Required)
+###### Data Steward Email (Required)
 Data Steward's email address.
 
+#### Data Dictionary
 We also strongly encourage publishers to provide a data dictionary for each data table. Data dictionaries help data users understand the underlying structure of the data file. The data dictionary can be created in a spreadsheet, saved in .csv format, and uploaded to the dataset as a resource. This data dictionary should include (at minimum): 
 
 * name of each field
