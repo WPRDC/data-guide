@@ -54,6 +54,11 @@ Within an organization, we'd like there to be a primary point of contact that ca
 
 Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. The second involves the uploading of resources. 
 
+To start the process, assuming you're logged-in to CKAN, click on the "Add Dataset" button from the [Dataset] (https://data.wprdc.org/dataset) Webpage
+
+![alt text](AddDatasetButton.GIF "Add a dataset")
+
+
 ####Metadata
 
 The first step in the process of creating a dataset involves the creation of a metadata record. Metadata is a structured framework for documenting data. The metadata standard we’re using is largely based on one used by San Francisco and U.S. Data.gov. Were also grateful for advice from Digital Scholarship Services at the University of Pittsburgh
