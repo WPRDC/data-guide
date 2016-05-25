@@ -162,8 +162,6 @@ All data published through the open data portal should be assigned to one or mor
 
 Assigning datasets to additional groups can be done through the groups tab on the dataset "landing page"
 
-Link or embed screen capture
-
 ### Data Center Privacy Review: Publish New Datasets as Private
 
 The Regional Data Center takes privacy seriously. We require all publishers to understand the privacy implications of data shared through the Regional Data Center. 
@@ -179,8 +177,15 @@ When updating resources within a dataset, there is no need to designate the data
 ### permanence
 See LA Publishing guide
 
-### Editing or updating a dataset
+### Editing or Updating a Dataset or Resource
 
-Link or embed screen capture
+We recorded several additional videos showing how to edit or delete an existing dataset. Links to each video are included below.
+
+###### [Edit a Dataset](Edit a Dataset Instructions.gif)
+###### [Delete a Dataset](Delete a Dataset Instructions.gif)
+###### [Add a Resource to an Existing Dataset](Add Resource to Existing Dataset Instructions.gif)
+###### [Change the File in an Existing Resource](Change the File in a Resource Instructions.gif)
+###### [Reorder a Resource](Reorder Resource Instructions.gif)
+###### [Delete a Resource](Delete a Resource Instructions.gif)
 
 
