@@ -154,7 +154,7 @@ We also recorded a video showing how to add a resource for a dataset.
 ![alt text](Create a Resource Instructions.gif "Add a resource")
 
 ### Adding a Data View
-
+Coming soon!
 
 ### Add Data to Additional Groups
 
@@ -174,9 +174,6 @@ We encourage publishers to proactively contact us by phone or email if there are
 
 When updating resources within a dataset, there is no need to designate the dataset as private unless substantial changes affecting the design or composition of resources within the dataset have been made.
 
-### permanence
-See LA Publishing guide
-
 ### Editing or Updating a Dataset or Resource
 
 We recorded several additional videos showing how to edit or delete an existing dataset. Links to each video are included below.
@@ -188,4 +185,6 @@ We recorded several additional videos showing how to edit or delete an existing 
 ###### [Reorder a Resource](Reorder Resource Instructions.gif)
 ###### [Delete a Resource](Delete a Resource Instructions.gif)
 
+### Permanence
+Coming soon!
 
