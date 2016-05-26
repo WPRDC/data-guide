@@ -67,7 +67,7 @@ We’ve programmed the open data portal software to automatically complete some 
 
 We also don’t require all of the metadata elements to be completed when data is loaded to the portal. We have a few required fields (as noted below), and more detail can be added to the metadata later.
 
-It should take about 5 minutes to complete a metadata entry for a dataset. It shouldn’t need to be updated unless some of the details have changed.
+You may find it convenient to use our [metadata entry worksheet] (https://docs.google.com/document/d/1sWZ91Newgov2CAL8hcGMADk2eze8EDon2V4mrUmPf44/edit?usp=sharing) prior to creating a dataset and metadata record on the Website. It will take some planning to gather all necessary materials for the metadata record. If the metadata information is gathered in advance, It may take as littla as five minutes to enter a metadata entry for a dataset. It shouldn’t need to be updated unless some of the details have changed.  
 
 ###### Title (Required)
 Short human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery. Avoid acronyms. Use "title case" spelling, and no need to list dates. Don't include the organization name here.
