@@ -13,7 +13,7 @@ Please share your Dusqus user name with the Regional Data Center. We'll then be 
 Also be sure to let Regional Data Center know how to contact you and any other Disqus admin(s) for your organization. If we notice a comment related to data from your organization on the site, we'd like to let you know about it by email or phone. 
 
 #Using Disqus to Moderate Comments
-After logging-in to Disqus... Add instructions
+We'll add more detail and possibly a video here...
 
 ##Reply
 We like to have our data providers respond to commments in a timely fashion, which usually means within a day or two. Even if it may take a few days to compile a formal response to a comment, it's a good practice to acknowledge the comment, and promise a follow-up response.
