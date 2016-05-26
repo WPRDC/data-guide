@@ -1,4 +1,4 @@
-#Publishing on CKAN
+#Publishing on the Regional Data Center's Open Data Portal
 
 This section of the publisher's guide covers the process for manually publishing a dataset to the Regional Data Center's open data portal.
 
@@ -69,61 +69,61 @@ We also don’t require all of the metadata elements to be completed when data i
 
 You may find it convenient to use our [metadata entry worksheet] (https://docs.google.com/document/d/1sWZ91Newgov2CAL8hcGMADk2eze8EDon2V4mrUmPf44/edit?usp=sharing) prior to creating a dataset and metadata record on the Website. It will take some planning to gather all necessary materials for the metadata record. If the metadata information is gathered in advance, It may take as littla as five minutes to enter a metadata entry for a dataset. It shouldn’t need to be updated unless some of the details have changed.  
 
-###### Title (Required)
+##### Title (Required)
 Short human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery. Avoid acronyms. Use "title case" spelling, and no need to list dates. Don't include the organization name here.
 
-###### URL
+##### URL
 URL link to the dataset landing page on the open data portal. This field is automatically populated by the software.
 
-###### Description (Required)
+##### Description (Required)
 Provide a longer description of the data (compared to the title) written in plain language that can be readily understood by non-technical users. It's a good practice to include your organization's name in the description 
 
-###### Tags (Required)
+##### Tags (Required)
 Keywords that describe the dataset. Enter separated by semicolons. Acronyms acceptable. Use technical and non-technical terms. Use as many as needed. Use plural forms of the word, and also singular forms if different from plural (i.e. leaf/leaves, wife/wives).
 
-###### License (Required)
+##### License (Required)
 License definitions and additional information on licenses can be found on the [Creative Commons Website] (https://creativecommons.org/licenses/) and the [Open Definition Website] (http://opendefinition.org/licenses/). A [Public Domain Dedication] (https://wiki.creativecommons.org/wiki/Public_domain) in lieu of a license is also a choice that will allow for maximum re-use of your data if no copyright is present. This information is entered using a drop-down menu.
  
-###### Group/Topic (Required)
+##### Group/Topic (Required)
 The group/topic of the dataset identified by the list of possible values. If a data set can fall into multiple categories, select the one which is most-appropriate. This information is entered using a drop-down menu.
 
-###### Organization (Required)
+##### Organization (Required)
 Name of the organization sharing data. This information is entered using a drop-down menu.
 
-###### Department
+##### Department
 Name of the data source department or division (if applicable). This information is entered using a drop-down menu. If no choices are provided, please leave it blank.
 
-###### Access Level
+##### Access Level
 Public datasets are visible to all, and private datasets are only visible to other users in the same organization. New datasets should be set as Private at the time of publication. The Regional Data Center will review the data as a final privacy check, and will set it as Public if no privacy issues are present. This information is entered using a drop-down menu.
 
-###### Public Access Level Comment
+##### Public Access Level Comment
 An explanation of any general steps that have been taken to make a sensitive dataset public, where appropriate, including obfuscation, aggregation, or anonymization.
 
-###### Temporal Coverage
+##### Temporal Coverage
 Start/End periods covered by the data. Separate start and end by a "/". Use years (YYYY), dates (YYYY-MM-DD), or dates and times (YYY-MM-DD"T"HHMMSS). If the data is a snapshot from a particular date or year, please omit the "/".  Examples: 4 digit year range (2013/2015), date range (2011-02-14/2013-07-04), date/time range (2011-02-14T12:00:00Z/2013-07-04T19:34:00Z), 1 year (2015), single date (2/16/2016).
 
-###### Geographic Unit
+##### Geographic Unit
 At what geographic unit is the data collected? For example, if the data is collected by address, it would be Street Address. This information is entered using a drop-down menu.
 
-###### Data Notes
+##### Data Notes
 Are there any concerns about overall data reliability? Are there any changes in data collection or methods that the user should be aware of? Are there any constraints with data accuracy? What levels of confidence with this dataset could the user reasonably assume?
 
-###### Related Documents
+##### Related Documents
 Related documents such as technical information about a dataset, developer documentation, URL, etc.
 
-###### Frequency - Data Change (Required)
+##### Frequency - Data Change (Required)
 Frequency with which dataset changes. This can be a relative frequency - If the file changes every 1st and 4th Monday, we can code this as bi-monthly, etc. This information is entered using a drop-down menu.
 
-###### Frequency - Publishing (Required)
+##### Frequency - Publishing (Required)
 Frequency with which dataset is published. This information is entered using a drop-down menu.
 
-###### Data Steward Name (Required)
+##### Data Steward Name (Required)
 Data Steward's name. Who manages the data and is responsible for making changes to the data? Who understands what the dataset includes and can answer questions about it?
 
-###### Data Steward Email (Required)
+##### Data Steward Email (Required)
 Data Steward's email address.
 
-##### We [recorded a video] (Create a Dataset Instructions.gif)to show how the process works...
+##### We [recorded a video] (Create a Dataset Instructions.gif) to show how the process works...
 ![alt text](Create a Dataset Instructions.gif "Add a dataset")
 
 #### Data Dictionary
