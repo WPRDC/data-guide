@@ -43,12 +43,11 @@ You will need to provide them with your CKAN user name to assign you as an admin
 
 Within an organization, we'd like there to be a primary point of contact that can coordinate among all publishers within your organization, if applicable.
 
-
 ### Datasets and Resources Defined
 
 * It's best to think of datasets within CKAN as a container that holds information about the dataset itself in a metadata record, along with a number of resources. 
 
-* Resources in CKAN are items within the dataset "container" itself. Resources can include files of many data types within the same dataset, including data file formats, pdf's, images, hyperlinks, and text documents. These resources can include a numbr of datasets, a data catalog, reports, etc. 
+* Resources in CKAN are items within the dataset "container" itself. Resources can include files of many data types within the same dataset, including data file formats, pdf's, images, hyperlinks, and text documents. Resources in the same dataset might contain the data for the same information broken into a separate resource by year, a data dictionary describing the fields in a data table, or a  hyperlink to a dataset or tool hosted in a different location. CKAN accepts data in many different formats. A resource can be in a variety of formats, including (but not limited to): CSV, Excel spreadsheet, text file, JSON, PDF document, JPEG image file, etc. CKAN can store the resource internally or provide a link to resources hosted elsewhere on the web.
 
 ### Creating a Dataset
 
