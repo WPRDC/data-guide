@@ -29,5 +29,6 @@ If feasible, the Regional Data Center will work with publishing partners to auto
 ##Not all data can be open data
 Please refer to our privacy-related materials to minimize the risk and harm of sharing information that may be sensitive in nature.
 
-
+##Data Catalogs Provide Tremendous Value in Establishing Publishing Priorities
+A data catalog is a listing of data held by an organization. Knowing what data exists can help an organization more-easily develop their publishing priorities and manage their data more-effectively. GovEx is developing an excellent [guide on data inventories.](https://github.com/govex/govex.github.io/blob/master/data-governance/data-inventory/index.md) 
 
