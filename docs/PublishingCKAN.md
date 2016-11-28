@@ -41,6 +41,8 @@ Only the Regional Data Center or the designated CKAN administrator at your organ
 
 You will need to provide them with your CKAN user name to assign you as an administrator ror editor.
 
+You'll also need to provide a CKAN administrator (by [contacting WPRDC staff](http://www.wprdc.org/contact/)) with your user name. The administrator will use the [group adder](https://www.wprdc.org/group-adder/) tool to assign permission to add data to topical [categories or groups] (https://data.wprdc.org/group) on the Website. 
+
 Within an organization, we'd like there to be a primary point of contact that can coordinate among all publishers within your organization, if applicable.
 
 ### Datasets and Resources Defined
