@@ -25,7 +25,7 @@ Regional Data Center staff or your organization's administrator will also associ
 
 ### Logging-in to CKAN
 
-To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. To login, please visit the Regional Data Center's [login page] (https://data.wprdc.org/user/login).
+To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. Your account must also be provided with editor or admin priveliges, as described below. To login, please visit the Regional Data Center's [login page] (https://data.wprdc.org/user/login).
 
 ### Accounts and Roles
 
@@ -35,13 +35,15 @@ Accounts in CKAN can have one of three roles. The roles available within CKAN in
 * editor: can edit, read and create new objects on CKAN
 * admin: admin can do anything including: edit, read, delete, and update permissions (change authorizations for that object)
 
-All accounts initially created on CKAN lack publishing permissions. To publish data, your account will need to have either an editor or admin role. 
+### Assigning Permissions
+
+All accounts initially created on CKAN lack publishing permissions. To publish data, your account will need to be assigned either an editor or admin role. 
 
 Only the Regional Data Center or the designated CKAN administrator at your organization is able to assign the appropriate role to your account. 
 
-You will need to provide them with your CKAN user name to assign you as an administrator or editor.
+You will need to provide them with your CKAN user name to assign you as an administrator or editor. [Please contact](http://www.wprdc.org/contact/)the Regional Data Center if you have any questions 
 
-You'll also need to provide a CKAN administrator in your organization ([or WPRDC staff](http://www.wprdc.org/contact/)) with your user name. The administrator will use the [group adder](https://www.wprdc.org/group-adder/) tool to assign permission to add data to topical [categories or groups] (https://data.wprdc.org/group) on the Website. 
+A CKAN administrator in your organization ([or WPRDC staff](http://www.wprdc.org/contact/)) will also need to provide your account with permission to add data to topical [categories or groups] (https://data.wprdc.org/group) on the Website. The administrator will use the [group adder](https://www.wprdc.org/group-adder/) tool to assign permission.  
 
 Within an organization, we'd like there to be a primary point of contact that can coordinate among all publishers within your organization, if applicable.
 
