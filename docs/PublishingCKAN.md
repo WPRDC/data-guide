@@ -41,9 +41,9 @@ All accounts initially created on CKAN lack publishing permissions. To publish d
 
 Only the Regional Data Center or the designated CKAN administrator at your organization is able to assign the appropriate role to your account. 
 
-You will need to provide them with your CKAN user name to assign you as an administrator or editor. [Please contact](http://www.wprdc.org/contact/)the Regional Data Center if you have any questions 
+You will need to provide them with your CKAN user name to assign you as an administrator or editor. [Please contact ](http://www.wprdc.org/contact/)the Regional Data Center if you have any questions 
 
-A CKAN administrator in your organization ([or WPRDC staff](http://www.wprdc.org/contact/)) will also need to provide your account with permission to add data to topical [categories or groups] (https://data.wprdc.org/group) on the Website. The administrator will use the [group adder](https://www.wprdc.org/group-adder/) tool to assign permission.  
+A CKAN administrator in your organization ([or WPRDC staff](http://www.wprdc.org/contact/)) will also need to provide your account with permission to add data to topical [categories or groups] (https://data.wprdc.org/group) on the Website. The administrator will use the [group adder](https://www.wprdc.org/group-adder/) tool to assign these permissions.  
 
 Within an organization, we'd like there to be a primary point of contact that can coordinate among all publishers within your organization, if applicable.
 
