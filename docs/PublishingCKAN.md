@@ -181,12 +181,12 @@ When updating resources within a dataset, there is no need to designate the data
 
 We recorded several additional videos showing how to edit or delete an existing dataset. Links to each video are included below.
 
-###### [Edit a Dataset](Edit a Dataset Instructions.gif)
-###### [Delete a Dataset](Delete a Dataset Instructions.gif)
-###### [Add a Resource to an Existing Dataset](Add Resource to Existing Dataset Instructions.gif)
-###### [Change the File in an Existing Resource](Change the File in a Resource Instructions.gif)
-###### [Reorder a Resource](Reorder Resource Instructions.gif)
-###### [Delete a Resource](Delete a Resource Instructions.gif)
+###### [Edit a Dataset](https://github.com/WPRDC/data-guide/blob/master/docs/Edit%20a%20Dataset%20Instructions.gif)
+###### [Delete a Dataset](https://github.com/WPRDC/data-guide/blob/master/docs/Delete%20a%20Resource%20Instructions.gif)
+###### [Add a Resource to an Existing Dataset](https://github.com/WPRDC/data-guide/blob/master/docs/Add%20Resource%20to%20Existing%20Dataset%20Instructions.gif)
+###### [Change the File in an Existing Resource](https://github.com/WPRDC/data-guide/blob/master/docs/Change%20the%20File%20in%20a%20Resource%20Instructions.gif)
+###### [Reorder a Resource](https://github.com/WPRDC/data-guide/blob/master/docs/Reorder%20Resource%20Instructions.gif)
+###### [Delete a Resource](https://github.com/WPRDC/data-guide/blob/master/docs/Delete%20a%20Resource%20Instructions.gif)
 
 ### Permanence
 Coming soon!
