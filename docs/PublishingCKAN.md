@@ -19,13 +19,13 @@ The open data portal used by the Regional Data Center is powered by open source 
 
 ### Creating a CKAN Account
 
-Creating an account on CKAN involves visiting the [Regional Data Center Website] (https://data.wprdc.org/user/register) and entering a user name, password, and email address.
+Creating an account on CKAN involves visiting the [Regional Data Center Website](https://data.wprdc.org/user/register) and entering a user name, password, and email address.
 
 Regional Data Center staff or your organization's administrator will also associate your CKAN acount with the appropriate organization.
 
 ### Logging-in to CKAN
 
-To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. Your account must also be provided with editor or admin priveliges, as described below. To login, please visit the Regional Data Center's [login page] (https://data.wprdc.org/user/login).
+To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. Your account must also be provided with editor or admin priveliges, as described below. To login, please visit the Regional Data Center's [login page](https://data.wprdc.org/user/login).
 
 ### Accounts and Roles
 
