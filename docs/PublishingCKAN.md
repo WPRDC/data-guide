@@ -153,7 +153,7 @@ The second step in the process involves creating resources within each dataset. 
 3. Providing a description for the resource
 4. Specifying the file type
 
-We also [recorded a video](https://github.com/WPRDC/data-guide/blob/master/docs/Create_a_Resource_Instructions.gif) showing how to add a resource for a dataset.
+We also [recorded a video](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Dataset%20Instructions.gif) showing how to add a resource for a dataset.
 ![alt text](Create a Resource Instructions.gif "Add a resource")
 
 ### Adding a Data View
