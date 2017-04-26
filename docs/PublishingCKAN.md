@@ -43,7 +43,7 @@ Only the Regional Data Center or the designated CKAN administrator at your organ
 
 You will need to provide them with your CKAN user name to assign you as an administrator or editor. [Please contact ](http://www.wprdc.org/contact/)the Regional Data Center if you have any questions 
 
-A CKAN administrator in your organization ([or WPRDC staff](http://www.wprdc.org/contact/)) will also need to provide your account with permission to add data to topical [categories or groups] (https://data.wprdc.org/group) on the Website. The administrator will use the [group adder](https://www.wprdc.org/group-adder/) tool to assign these permissions.  
+A CKAN administrator in your organization ([or WPRDC staff](http://www.wprdc.org/contact/)) will also need to provide your account with permission to add data to topical [categories or groups](https://data.wprdc.org/group) on the Website. The administrator will use the [group adder](https://www.wprdc.org/group-adder/) tool to assign these permissions.  
 
 Within an organization, we'd like there to be a primary point of contact that can coordinate among all publishers within your organization, if applicable.
 
@@ -57,7 +57,7 @@ Within an organization, we'd like there to be a primary point of contact that ca
 
 Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. The second involves the uploading of resources. 
 
-To start the process, assuming you're logged-in to CKAN, click on the "Add Dataset" button from the [Dataset] (https://data.wprdc.org/dataset) Webpage
+To start the process, assuming you're logged-in to CKAN, click on the "Add Dataset" button from the [Dataset](https://data.wprdc.org/dataset) Webpage
 
 ![alt text](AddDatasetButton.GIF "Add a dataset")
 
@@ -70,7 +70,7 @@ We’ve programmed the open data portal software to automatically complete some 
 
 We also don’t require all of the metadata elements to be completed when data is loaded to the portal. We have a few required fields (as noted below), and more detail can be added to the metadata later.
 
-You may find it convenient to use our [metadata entry worksheet] (https://docs.google.com/document/d/1sWZ91Newgov2CAL8hcGMADk2eze8EDon2V4mrUmPf44/edit?usp=sharing) prior to creating a dataset and metadata record on the Website. It will take some planning to gather all necessary materials for the metadata record. If the metadata information is gathered in advance, It may take as littla as five minutes to enter a metadata entry for a dataset. It shouldn’t need to be updated unless some of the details have changed.  
+You may find it convenient to use our [metadata entry worksheet](https://docs.google.com/document/d/1sWZ91Newgov2CAL8hcGMADk2eze8EDon2V4mrUmPf44/edit?usp=sharing) prior to creating a dataset and metadata record on the Website. It will take some planning to gather all necessary materials for the metadata record. If the metadata information is gathered in advance, It may take as littla as five minutes to enter a metadata entry for a dataset. It shouldn’t need to be updated unless some of the details have changed.  
 
 ##### Title (Required)
 Short human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery. Avoid acronyms. Use "title case" spelling, and no need to list dates. Don't include the organization name here.
@@ -153,7 +153,7 @@ The second step in the process involves creating resources within each dataset. 
 3. Providing a description for the resource
 4. Specifying the file type
 
-We also [recorded a video] (Create a Resource Instructions.gif) showing how to add a resource for a dataset.
+We also [recorded a video](Create a Resource Instructions.gif) showing how to add a resource for a dataset.
 ![alt text](Create a Resource Instructions.gif "Add a resource")
 
 ### Adding a Data View
