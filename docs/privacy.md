@@ -1,13 +1,13 @@
-#Protecting Privacy
+# Protecting Privacy
 
-##Introduction
+## Introduction
 Open data publishing requires policies, procedures, and actions to protect individuals and organizations from unintentional sharing of personally identifiable information (PII). In some cases, sharing data including PII can cause people serious harm. The proliferation of digital public records, data contained in social media, inadequate policies for managing and protecting PII, and inconsistent data management practices increase the likelihood that PII can be combined across multiple sources to uniquely identify an individual. This section of the guide is designed to help publishers identify PII, and take steps to minimize the risk and harm of a breach. 
 
 The Western Pennsylvania Regional Data Center is NOT equipped to offer legal advice or opinions related to data sharing. We encourage organizations with questions to contact appropriate counsel with any questions related to the legal aspects of data sharing. 
 
 As a final check, we ask all publishers to mark a dataset as "private" the first time it is shared. We will provide a timely review and publish the data if we have no privacy concerns. If we see something that may cause a risk, we will contact you to discuss any privacy issues that may exist in your data, and work with you to minimize risks where possible.
 
-##What is Personally Identifiable Information (PII)
+## What is Personally Identifiable Information (PII)?
 Personally identifiable information (PII) is “information about a person that contains some unique identifier, including but not limited to name or Social Security Number, from which the identity of the person can be determined.” [GSA 2014] This description includes both information that directly identifies an individual, such as a name, and information, such as race or gender, that can identify individuals when combined with other information.
 
 The list below describes what might be considered personally identifiable information (PII). It is not meant to be exhaustive but is intended to provide examples and context as to what might be considered PII. 
@@ -16,7 +16,7 @@ The list below describes what might be considered personally identifiable inform
 |---------------------|
 |Name |
 |Social Security number|
-|Drivers' licence number|
+|Driver's licence number|
 |Passport number|
 |Financial account numbers (bank, credit cards)|
 |Taxpayer identification number|
@@ -83,7 +83,7 @@ The list below describes what might be considered personally identifiable inform
 
 Privacy law and respective legal standards ultimately determine what constitutes PII.  Therefore, the definition of PII varies by jurisdiction and also on a case-by-case basis. 
 
-##What are Public Agencies Required to Share?
+## What are Public Agencies Required to Share?
 Public records in Pennsylvania are subject to the presumption of openness standard in the Commonwealth’s Right-to-Know Law. This standard dictates that all records are presumed to be open to the public unless:
 1. Disclosure is prohibited by law, regulation, or judicial order; 
 2. Disclosure is prohibited by privilege, such as attorney-client or doctor-patient privileges; 
@@ -97,9 +97,9 @@ Additional information about Pennsylvania’s Right-to-Know Law, including a lis
 
 In addition to Right-to-Know laws, individuals may have certain rights to access or be aware of information that pertains to them.  
 
-##Privacy Review Process
+## Privacy Review Process
 
-####Assessing Harm of a Release 
+#### Assessing Harm of a Release 
 
 The process for identifying the privacy risk in sharing a dataset as open data involves an assessment of the severity of harm that may befall a person from a data release, and an assessment of how probable it is that the release of data will cause harm. This assessment of probability should not be done in isolation. It must also account for harm that may occur if the dataset being assessed is linked to other datasets.  
 
@@ -113,7 +113,7 @@ In its Guide to Protecting the Confidentiality of Personally Identifiable Inform
 
 When assessing the harm of a potential data release, it's important to give special consideration of harm that may occur to vulnerable populations, including those who may be at elevated risk of becoming a crime victim. These populations can include children, older adults, victims of violent crime, those under protection from abusers, crime witnesses, informants, first responders, and those that may be targeted because of their race, gender preferences, or sexual orientation.
 
-####Comparison to Other Communities
+#### Comparison to Other Communities
 Valuable guidance can be gained from other organizations' policies and practices for publishing open data. The Federal government's open data repository (www.data.gov) contains a very large catalog of open data sets shared by Federal, state, and local governments. Using this data catalog, publishers can quickly see how other government agencies handle privacy issues related to datasets similar to your own. While this information should not take the place of a privacy investment, it can be helpful in informing your approach. 
 
 #### Legal Obligations and Review
@@ -134,10 +134,10 @@ The presence of protected PII in a database need not pose an insurmountable barr
 
 In contrast, anonymized information cannot be used to reconstitute the original, individual methods. Anonymization methods include generalization (grouping records by category or geographic area), suppressing data, or introducing noise by swapping values of individuals fields or replacing individual values with summary statistics. While PII is removed, anonymized data are often less useful for research and decision support.     
 
-##How to Reduce the Risk of Accidentally Releasing PII or Other Sensitive Information
+## How to Reduce the Risk of Accidentally Releasing PII or Other Sensitive Information
 There are several actions your organization can take to minimize the risk of accidentally releasing data containing PII or other sensitive information. The information in the publishers guide summarizes more-detailed information presented in UCSUR's 2015 White Paper "Frameworks to Protect Personally Identifiable Information and Assess the Risk of Unintended Breaches"
 
-####Data Quality Assessment
+#### Data Quality Assessment
 
 After an organization decides to share information as open data, and has determined that release will cause minimal harm to any individual, a data quality assessment should be undertaken. Every dataset that is shared as open data should be rigorously evaluated before publication to ensure that sensitive information is not being inadvertently shared. It's also worthwhile testing processes used for data de-identification or anonymization.
 
