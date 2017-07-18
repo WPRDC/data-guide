@@ -1,4 +1,4 @@
-#Publishing on the Regional Data Center's Open Data Portal
+# Publishing on the Regional Data Center's Open Data Portal
 
 This section of the publisher's guide covers the process for manually publishing a dataset to the Regional Data Center's open data portal.
 
@@ -62,7 +62,7 @@ To start the process, assuming you're logged-in to CKAN, click on the "Add Datas
 ![alt text](AddDatasetButton.GIF "Add a dataset")
 
 
-####Metadata
+#### Metadata
 
 The first step in the process of creating a dataset involves the creation of a metadata record. Metadata is a structured framework for documenting data. The metadata standard we’re using is largely based on one used by San Francisco and U.S. Data.gov. Were also grateful for advice from Digital Scholarship Services at the University of Pittsburgh
 
