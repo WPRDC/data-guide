@@ -18,29 +18,24 @@ Data dictionaries are a simple way to explain such details and make the data you
 
 We suggest using a five-field data dictionary to define your data's fields.
 The fields we recommend are:
-    - 'field_name': The name of the field. (Preferably formatted in all lowercase letters and with underscores instead of spaces or other punctuation.)
-    - 'type': The type of the field, coded as something like "text" or "float" or "int". The [full list of types for values that go into the CKAN datastore](http://docs.ckan.org/en/latest/maintaining/datastore.html#field-types) (which the WPRDC data portal runs on) is
-    > CKAN type | description
-    > ----------|------------
-    > text | text string
-    > int | integer
-    > float | real number
-    > boolean | a Boolean value (True or False)
-    > date | a date without a time
-    > time | a time without a date
-    > timestamp | a date and a time together (a.k.a., a "datetime")
-    > json | a JSON representation of some data (superuseful but by far the most obscure type on this list) 
+- 'field_name': The name of the field. (Preferably formatted in all lowercase letters and with underscores instead of spaces or other punctuation.)
+- 'type': The type of the field, coded as something like "text" or "float" or "int". The [full list of types for values that go into the CKAN datastore](http://docs.ckan.org/en/latest/maintaining/datastore.html#field-types) (which the WPRDC data portal runs on) is
     
+CKAN type | description
+----------|------------
+text | text string
+int | integer
+float | real number
+boolean | a Boolean value (True or False)
+date | a date without a time
+time | a time without a date
+timestamp | a date and a time together (a.k.a., a "datetime")
+json | a JSON representation of some data (superuseful but by far the most obscure type on this list) 
     
-    - 'description': A definition of the field (you could, for instance, include in here that the units of the field value are furlongs).
-    - 'example': Just a sample value of the field, so that the user knows what it looks like (particularly helpful in case of weird date formats).
-    - 'notes': A place to put anything else, including relevant information about how the field might have been calculated from another field or transformed for publication.
+- 'description': A definition of the field (you could, for instance, include in here that the units of the field value are furlongs).
+- 'example': Just a sample value of the field, so that the user knows what it looks like (particularly helpful in case of weird date formats).
+- 'notes': A place to put any other information relevant to the field, including information about how the field was calculated from another field or how the field was transformed for publication.
 
-
-
-The Notes field is a good place to put information that does not fit anywhere else. For instance, if it was necessary to transform ID data from one form to another to get a standardized ID, this could be described in the Notes section documenting that field.
-
-define the raw data itself but instead relates to how the data has been
 
 Other suggestions: We like to name fields by making all the letters lowercase and converting spaces and other punctuation to the underscore character \(\_\). So, we would convert the field name 
 
