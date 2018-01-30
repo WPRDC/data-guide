@@ -18,8 +18,8 @@ Data dictionaries are a simple way to explain such details and make the data you
 
 We suggest using a five-field data dictionary to define your data's fields.
 The fields we recommend are:
-- 'field_name': The name of the field. (Preferably formatted in all lowercase letters and with underscores instead of spaces or other punctuation.)
-- 'type': The type of the field, coded as something like "text" or "float" or "int". The [full list of types for values that go into the CKAN datastore](http://docs.ckan.org/en/latest/maintaining/datastore.html#field-types) (which the WPRDC data portal runs on) is
+- "field_name": The name of the field. (Preferably formatted in all lowercase letters and with underscores instead of spaces or other punctuation.)
+- "type": The type of the field, coded as something like "text" or "float" or "int". The [full list of types for values that go into the CKAN datastore](http://docs.ckan.org/en/latest/maintaining/datastore.html#field-types) (which the WPRDC data portal runs on) is
     
 CKAN type | description
 ----------|------------
@@ -32,10 +32,11 @@ time | a time without a date
 timestamp | a date and a time together (a.k.a., a "datetime")
 json | a JSON representation of some data (superuseful but by far the most obscure type on this list) 
     
-- 'description': A definition of the field (you could, for instance, include in here that the units of the field value are furlongs).
-- 'example': Just a sample value of the field, so that the user knows what it looks like (particularly helpful in case of weird date formats).
-- 'notes': A place to put any other information relevant to the field, including information about how the field was calculated from another field or how the field was transformed for publication.
+- "description": A definition of the field (you could, for instance, include in here that the units of the field value are furlongs).
+- "example": Just a sample value of the field, so that the user knows what it looks like (particularly helpful in case of weird date formats).
+- "notes": A place to put any other information relevant to the field, including information about how the field was calculated from another field or how the field was transformed for publication.
 
+We also like [the Frictionless Data JSON Table Schema example](https://opendata.stackexchange.com/a/319) approach to data dictionaries, but we're not quite ready for that yet.
 
 Other suggestions: We like to name fields by making all the letters lowercase and converting spaces and other punctuation to the underscore character \(\_\). So, we would convert the field name 
 
@@ -46,4 +47,3 @@ Hint: You can use a spreadsheet program.
 - Include data_dictionary_template.csv
 
 Check it over by opening it in a text editor, to make sure that Excel didn't format anything (like dates) weirdly.
-
