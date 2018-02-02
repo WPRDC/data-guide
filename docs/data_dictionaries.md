@@ -45,10 +45,14 @@ define the raw data itself but instead relates to how the data has been
 Other suggestions: We like to name fields by making all the letters lowercase and converting spaces and other punctuation to the underscore character \(\_\). So, we would convert the field name 
 
 ## How to create a data dictionary
-Hint: You can use a spreadsheet program.
 
-- Include data_dictionary_example.csv
-- Include data_dictionary_template.csv
+Option 1: You can use a spreadsheet program and then export the results to CSV.
 
-Check it over by opening it in a text editor, to make sure that Excel didn't format anything (like dates) weirdly.
+If you do it this way,check it over by opening it in a text editor, to make sure that Excel didn't format anything (like dates) weirdly.
+
+Option 2: You can type it up by hand. It's not that hard if you have an example.
+(See [here](https://github.com/WPRDC/little-lexicographer/tree/master/examples) for examples about books.)
+
+Option 3: Use this handy Python script I wrote: [little-lexicographer](https://github.com/WPRDC/little-lexicographer).
+
 
