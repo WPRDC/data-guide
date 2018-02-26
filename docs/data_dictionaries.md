@@ -38,7 +38,7 @@ json | a JSON representation of some data (superuseful but by far the most obscu
 
 We also like [the Frictionless Data JSON Table Schema example](https://opendata.stackexchange.com/a/319) approach to data dictionaries, but we're not quite ready for that yet.
 
-Other suggestions: We like to name fields by making all the letters lowercase and converting spaces and other punctuation to the underscore character \(\_\). So, we would convert the field name 
+Other suggestions: We like to name fields by making all the letters lowercase and converting spaces and other punctuation to the underscore character \(\_\). So, we would convert the field name "Walrus Count" to the name "walrus_count". 
 
 ## How to create a data dictionary
 
