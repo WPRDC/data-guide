@@ -126,8 +126,8 @@ Data Steward's name. Who manages the data and is responsible for making changes 
 ##### Data Steward Email (Required)
 Data Steward's email address.
 
-##### We [recorded a video](Create a Dataset Instructions.gif) to show how the process works...
-![alt text](Create a Dataset Instructions.gif "Add a dataset")
+##### We [recorded a video](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Dataset%20Instructions.gif) to show how the process works...
+![alt text](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Dataset%20Instructions.gif "Add a dataset")
 
 #### Data Dictionary
 We also strongly encourage publishers to provide a data dictionary for each data table. Data dictionaries help data users understand the underlying structure of the data file. The data dictionary can be created in a spreadsheet, saved in .csv format, and uploaded to the dataset as a resource. For an example, please see the [example included with the Allegheny County Property Assessment data](https://data.wprdc.org/dataset/property-assessments/resource/d31e1b1c-215d-4693-9898-154ca49050a4). This data dictionary should include (at minimum): 
@@ -153,9 +153,9 @@ The second step in the process involves creating resources within each dataset. 
 3. Providing a description for the resource
 4. Specifying the file type
 
-We also [recorded a video](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Dataset%20Instructions.gif) showing how to add a resource for a dataset.
+We also [recorded a video](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Resource%20Instructions.gif) showing how to add a resource for a dataset.
 
-![alt text](Create a Resource Instructions.gif "Add a resource")
+![alt text](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Resource%20Instructions.gif) "Add a resource")
 
 ### Adding a Data View
 Coming soon!
