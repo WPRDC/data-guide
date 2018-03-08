@@ -85,7 +85,7 @@ Provide a longer description of the data (compared to the title) written in plai
 Keywords that describe the dataset. Enter separated by semicolons. Acronyms acceptable. Use technical and non-technical terms. Use as many as needed. Use plural forms of the word, and also singular forms if different from plural (i.e. leaf/leaves, wife/wives).
 
 ##### License (Required)
-License definitions and additional information on licenses can be found on the [Creative Commons Website] (https://creativecommons.org/licenses/) and the [Open Definition Website] (http://opendefinition.org/licenses/). A [Public Domain Dedication] (https://wiki.creativecommons.org/wiki/Public_domain) in lieu of a license is also a choice that will allow for maximum re-use of your data if no copyright is present. This information is entered using a drop-down menu.
+License definitions and additional information on licenses can be found on the [Creative Commons web site](https://creativecommons.org/licenses/) and the [Open Definition web site](http://opendefinition.org/licenses/). A [Public Domain Dedication](https://wiki.creativecommons.org/wiki/Public_domain) in lieu of a license is also a choice that will allow for maximum re-use of your data if no copyright is present. This information is entered using a drop-down menu.
  
 ##### Group/Topic (Required)
 The group/topic of the dataset identified by the list of possible values. If a data set can fall into multiple categories, select the one which is most-appropriate. This information is entered using a drop-down menu.
@@ -126,11 +126,11 @@ Data Steward's name. Who manages the data and is responsible for making changes 
 ##### Data Steward Email (Required)
 Data Steward's email address.
 
-##### We [recorded a video] (Create a Dataset Instructions.gif) to show how the process works...
+##### We [recorded a video](Create a Dataset Instructions.gif) to show how the process works...
 ![alt text](Create a Dataset Instructions.gif "Add a dataset")
 
 #### Data Dictionary
-We also strongly encourage publishers to provide a data dictionary for each data table. Data dictionaries help data users understand the underlying structure of the data file. The data dictionary can be created in a spreadsheet, saved in .csv format, and uploaded to the dataset as a resource. For an example, please see the [example included with the Allegheny County Property Assessment data] (https://data.wprdc.org/dataset/property-assessments/resource/d31e1b1c-215d-4693-9898-154ca49050a4). This data dictionary should include (at minimum): 
+We also strongly encourage publishers to provide a data dictionary for each data table. Data dictionaries help data users understand the underlying structure of the data file. The data dictionary can be created in a spreadsheet, saved in .csv format, and uploaded to the dataset as a resource. For an example, please see the [example included with the Allegheny County Property Assessment data](https://data.wprdc.org/dataset/property-assessments/resource/d31e1b1c-215d-4693-9898-154ca49050a4). This data dictionary should include (at minimum): 
 
 * name of each field
 * description of the data field
@@ -154,6 +154,7 @@ The second step in the process involves creating resources within each dataset. 
 4. Specifying the file type
 
 We also [recorded a video](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Dataset%20Instructions.gif) showing how to add a resource for a dataset.
+
 ![alt text](Create a Resource Instructions.gif "Add a resource")
 
 ### Adding a Data View
