@@ -19,7 +19,7 @@ The open data portal used by the Regional Data Center is powered by open source 
 
 ### Creating a CKAN Account
 
-Creating an account on CKAN involves visiting the [Regional Data Center Website](https://data.wprdc.org/user/register) and entering a user name, password, and email address.
+Creating an account on CKAN involves visiting the [Regional Data Center web site](https://data.wprdc.org/user/register) and entering a user name, password, and email address.
 
 Regional Data Center staff or your organization's administrator will also associate your CKAN acount with the appropriate organization.
 
@@ -41,9 +41,9 @@ All accounts initially created on CKAN lack publishing permissions. To publish d
 
 Only the Regional Data Center or the designated CKAN administrator at your organization is able to assign the appropriate role to your account. 
 
-You will need to provide them with your CKAN user name to assign you as an administrator or editor. [Please contact ](http://www.wprdc.org/contact/)the Regional Data Center if you have any questions 
+You will need to provide them with your CKAN user name to assign you as an administrator or editor. [Please contact](http://www.wprdc.org/contact/) the Regional Data Center if you have any questions.
 
-A CKAN administrator in your organization ([or WPRDC staff](http://www.wprdc.org/contact/)) will also need to provide your account with permission to add data to topical [categories or groups](https://data.wprdc.org/group) on the Website. The administrator will use the [group adder](https://www.wprdc.org/group-adder/) tool to assign these permissions.  
+A CKAN administrator in your organization ([or WPRDC staff](http://www.wprdc.org/contact/)) will also need to provide your account with permission to add data to topical [categories or groups](https://data.wprdc.org/group) on the web site. The administrator will use the [group adder](https://www.wprdc.org/group-adder/) tool to assign these permissions.  
 
 Within an organization, we'd like there to be a primary point of contact that can coordinate among all publishers within your organization, if applicable.
 
@@ -57,8 +57,7 @@ Within an organization, we'd like there to be a primary point of contact that ca
 
 Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. The second involves the uploading of resources. 
 
-To start the process, assuming you're logged-in to CKAN, click on the "Add Dataset" button from the [Dataset](https://data.wprdc.org/dataset) Webpage
-
+To start the process, assuming you're logged-in to CKAN, click on the "Add Dataset" button from the [Dataset](https://data.wprdc.org/dataset) web page:
 ![alt text](AddDatasetButton.GIF "Add a dataset")
 
 
@@ -70,7 +69,7 @@ We’ve programmed the open data portal software to automatically complete some 
 
 We also don’t require all of the metadata elements to be completed when data is loaded to the portal. We have a few required fields (as noted below), and more detail can be added to the metadata later.
 
-You may find it convenient to use our [metadata entry worksheet](https://docs.google.com/document/d/1sWZ91Newgov2CAL8hcGMADk2eze8EDon2V4mrUmPf44/edit?usp=sharing) prior to creating a dataset and metadata record on the Website. It will take some planning to gather all necessary materials for the metadata record. If the metadata information is gathered in advance, It may take as littla as five minutes to enter a metadata entry for a dataset. It shouldn’t need to be updated unless some of the details have changed.  
+You may find it convenient to use our [metadata entry worksheet](https://docs.google.com/document/d/1sWZ91Newgov2CAL8hcGMADk2eze8EDon2V4mrUmPf44/edit?usp=sharing) prior to creating a dataset and metadata record on the web site. It will take some planning to gather all necessary materials for the metadata record. If the metadata information is gathered in advance, It may take as littla as five minutes to enter a metadata entry for a dataset. It shouldn’t need to be updated unless some of the details have changed.  
 
 ##### Title (Required)
 Short human-readable name of the asset. Should be in plain English and include sufficient detail to facilitate search and discovery. Avoid acronyms. Use "title case" spelling, and no need to list dates. Don't include the organization name here.
