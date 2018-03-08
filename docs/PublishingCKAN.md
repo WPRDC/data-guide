@@ -144,6 +144,8 @@ The data dictionary can also include information about each field in the data:
 * Permitted/prohibited values
 * Public access limitations
 
+You can read more about data dictionaries, how to make them, and our suggested formats [here](https://github.com/WPRDC/data-guide/blob/master/docs/data_dictionaries.md).
+
 #### Creating a Resource Within a Dataset
 
 The second step in the process involves creating resources within each dataset. The process includes: 
