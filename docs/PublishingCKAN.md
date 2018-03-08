@@ -179,6 +179,14 @@ We encourage publishers to proactively contact us by phone or email if there are
 
 When updating resources within a dataset, there is no need to designate the dataset as private unless substantial changes affecting the design or composition of resources within the dataset have been made.
 
+### Troubleshooting
+#### I uploaded a CSV or Excel file, but the resource page is not showing me the nice spreadsheet view of the data that I see on other pages. What might be wrong?
+
+There's something in your file that is preventing it from being imported into our Datastore database. The three most common problems are:
+   1. **Unexpected characters (like spaces) in your column names:** We recommend formatting column names in snake case, like "field_name" or "number_of_pirates".
+   2. **Unexpected changes in data type:** If everything in a column is a number, but suddenly a word appears, that can trip up the import process.
+   3. **Non-ASCII characters or weird character encoding:** These will often manifest as weird symbols when you view your file in a text editor. 
+
 ### Editing or Updating a Dataset or Resource
 
 We recorded several additional videos showing how to edit or delete an existing dataset. Links to each video are included below.
