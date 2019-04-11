@@ -1,4 +1,4 @@
-#Publishing on CKAN
+# Publishing on CKAN
 
 This section of the publisher's guide covers the process for manually publishing a dataset to the Regional Data Center's open data portal.
 
@@ -52,7 +52,7 @@ Within an organization, we'd like there to be a primary point of contact that ca
 
 Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. 
 
-####Metadata
+#### Metadata
 
 The first step in the process of creating a dataset involves the creation of a metadata record. 
 Metadata is a structured framework for documenting data. The metadata standard we’re using is largely based on one used by San Francisco and U.S. Data.gov. Were also grateful for advice from Digital Scholarship Services at the University of Pittsburgh
@@ -133,7 +133,7 @@ Link or embed screen capture
 - creating views
 
 
-### add data to groups
+### Add data to groups
 
 All data published through the open data portal should be assigned to one or more groups. Groups are topical categories that make it easier for users to find information by topical area. On the open data portal, there are 16 groups designated. The primary group assignment for a dataset should be made through the metadata record, however datasets can be assigned to multiple groups if appropriate.
 
@@ -152,7 +152,7 @@ We encourage publishers to proactively contact us by phone or email if there are
 
 When updating resources within a dataset, there is no need to designate the dataset as private unless substantial changes affecting the design or composition of resources within the dataset have been made.
 
-### permanence
+### Permanence
 See LA Publishing guide
 
 ### Editing or updating a dataset
