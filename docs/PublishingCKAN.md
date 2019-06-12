@@ -51,11 +51,11 @@ Within an organization, we'd like there to be a primary point of contact that ca
 
 * It's best to think of datasets within CKAN as a container that holds information about the dataset itself in a metadata record, along with a number of resources. 
 
-* Resources in CKAN are items within the dataset "container" itself. Resources can include files of many data types within the same dataset, including data file formats, pdf's, images, hyperlinks, and text documents. Resources in the same dataset might contain the data for the same information broken into a separate resource by year, a data dictionary describing the fields in a data table, or a  hyperlink to a dataset or tool hosted in a different location. CKAN accepts data in many different formats. A resource can be in a variety of formats, including (but not limited to): CSV, Excel spreadsheet, text file, JSON, PDF document, JPEG image file, etc. CKAN can store the resource internally or provide a link to resources hosted elsewhere on the web.
+* Resources in CKAN are items within the dataset "container" itself. Resources can include files of many data types within the same dataset, including data file formats, PDFs, images, hyperlinks, and text documents. Resources in the same dataset might contain the data for the same information broken into a separate resource by year, a data dictionary describing the fields in a data table, or a  hyperlink to a dataset or tool hosted in a different location. CKAN accepts data in many different formats. A resource can be in a variety of formats, including (but not limited to): CSV, Excel spreadsheet, text file, JSON, PDF document, JPEG image file, etc. CKAN can store the resource internally or provide a link to resources hosted elsewhere on the web.
 
 ### Creating a Dataset
 
-Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. The second involves the uploading of resources. 
+Manually uploading data to CKAN involves a two-step process. The first step in the process involves the creation of a dataset. The second involves the uploading of resources. 
 
 To start the process, assuming you're logged-in to CKAN, click on the "Add Dataset" button from the [Dataset](https://data.wprdc.org/dataset) web page:
 ![alt text](AddDatasetButton.GIF "Add a dataset")
@@ -120,10 +120,10 @@ Frequency with which dataset changes. This can be a relative frequency - If the 
 Frequency with which dataset is published. This information is entered using a drop-down menu.
 
 ##### Data Steward Name (Required)
-Data Steward's name. Who manages the data and is responsible for making changes to the data? Who understands what the dataset includes and can answer questions about it?
+Data steward's name. Who manages the data and is responsible for making changes to the data? Who understands what the dataset includes and can answer questions about it?
 
 ##### Data Steward Email (Required)
-Data Steward's email address.
+Data steward's email address.
 
 ##### We [recorded a video](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Dataset%20Instructions.gif) to show how the process works...
 ![alt text](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Dataset%20Instructions.gif "Add a dataset")
@@ -131,12 +131,12 @@ Data Steward's email address.
 #### Data Dictionary
 We also strongly encourage publishers to provide a data dictionary for each data table. Data dictionaries help data users understand the underlying structure of the data file. The data dictionary can be created in a spreadsheet, saved in .csv format, and uploaded to the dataset as a resource. For an example, please see the [example included with the Allegheny County Property Assessment data](https://data.wprdc.org/dataset/property-assessments/resource/d31e1b1c-215d-4693-9898-154ca49050a4). This data dictionary should include (at minimum): 
 
-* name of each field
-* description of the data field
+* Name of each field
+* Description of the data field
 
 The data dictionary can also include information about each field in the data:
 
-* data types (text, numeric, boolean, etc)
+* Data types (text, numeric, boolean, etc.)
 * Format (special details related to the format, including currency, decimal placement, dates/times
 * Field length (# of characters)
 * Unique ID/Primary Key
@@ -165,7 +165,7 @@ Coming soon!
 
 All data published through the open data portal should be assigned to one or more groups. Groups are topical categories that make it easier for users to find information by topical area. On the open data portal, there are 16 groups designated. The primary group assignment for a dataset should be made through the metadata record, however datasets can be assigned to multiple groups if appropriate.
 
-Assigning datasets to additional groups can be done through the groups tab on the dataset "landing page"
+Assigning datasets to additional groups can be done through the groups tab on the dataset "landing page".
 
 ### Data Center Privacy Review: Publish New Datasets as Private
 
