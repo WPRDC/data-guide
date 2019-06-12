@@ -159,7 +159,14 @@ We also [recorded a video](https://github.com/WPRDC/data-guide/blob/master/docs/
 ![alt text](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Resource%20Instructions.gif) "Add a resource")
 
 ### Adding a Data View
-Coming soon!
+1. Navigate to the resource for which you wish to create the view
+2. Click on the "Manage" button
+3. Click on the "Views" tab
+4. Click on the "New View" dropdown and select an option. (Data Table is the preferred tabular data viewer. Data Explorer is outdated.)
+5. Name and configure the view.
+6. Click the "Add" button at the bottom to save the view of the data.
+
+Multiple views are permitted. To make a particular view show up on the dataset landing page, navigate to that view and click the "Canonical View" button.
 
 ### Add Data to Additional Groups
 
