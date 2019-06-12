@@ -46,18 +46,18 @@ Within an organization, we'd like there to be a primary point of contact that ca
 
 * It's best to think of datasets within CKAN as a container that holds information about the dataset itself in a metadata record, along with a number of resources. 
 
-* Resources in CKAN are items within the dataset "container" itself. Resources can include files of many data types within the same dataset, including data file formats, pdf's, images, hyperlinks, and text documents. These resources can include a numbr of datasets, a data catalog, reports, etc. 
+* Resources in CKAN are items within the dataset "container" itself. Resources can include files of many data types within the same dataset, including data file formats, PDFs, images, hyperlinks, and text documents. These resources can include a numbr of datasets, a data catalog, reports, etc. 
 
 ### Creating a Dataset
 
-Manually uploading data to CKAN involves a two step process. The first step in the process involves the creation of a dataset. 
+Manually uploading data to CKAN involves a two-step process. The first step in the process involves the creation of a dataset. 
 
 #### Metadata
 
 The first step in the process of creating a dataset involves the creation of a metadata record. 
 Metadata is a structured framework for documenting data. The metadata standard we’re using is largely based on one used by San Francisco and U.S. Data.gov. Were also grateful for advice from Digital Scholarship Services at the University of Pittsburgh
 
-We’ve programmed the open data portal software to automatically complete some of the metadata. We’ve also provided drop-down forms saving you from having to type pre-defined responses where possible.
+We’ve programmed the open-data-portal software to automatically complete some of the metadata. We’ve also provided drop-down forms saving you from having to type pre-defined responses where possible.
 
 We also don’t require all of the metadata elements to be completed when data is loaded to the portal. We have a few required fields (as noted below), and more detail can be added to the metadata later.
 
