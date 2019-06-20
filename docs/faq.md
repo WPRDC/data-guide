@@ -11,6 +11,7 @@
 5) You can now sort and browse the filtered view.
 6) More importantly, **you can now download the filtered view by clicking the Download button** and then selecting your desired file format.
 
+Note that you can add more filters. Adding more filter values for a given field will combine together all the results of the individual filters (that is, the filters will be ORed together, yielding more records). Adding new fields will further filter the results (the filters will be ANDed together, yielding fewer records).
 
 **Q:** If I'm storing data in an Excel spreadsheet for eventual publication as open data, what Excel data types should I use? For instance, if there are monetary values, should I set the cell type to "Currency" (which adds the dollar sign to the cell value) or as some other type?
 
