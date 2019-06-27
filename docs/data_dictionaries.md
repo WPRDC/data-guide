@@ -50,3 +50,15 @@ Option 2: You can type it up by hand. It's not that hard if you have an example.
 (See [here](https://github.com/WPRDC/little-lexicographer/tree/master/examples) for examples about books.)
 
 Option 3: Use this handy Python script I wrote: [little-lexicographer](https://github.com/WPRDC/little-lexicographer).
+
+## Integrated data dictionaries
+
+Our latest version of the data-portal software includes nifty built-in data-dictionary capabilities. As the publisher, you can edit the data dictionary through the management interface and then the user can view it right below the corresponding data table.
+
+### How to edit a resource's integrated data dictionary
+
+1) From the resource page, click the “Manage” button.
+2) Click on the “Data Dictionary” tab. You will see a long form with selectors and blanks for each field.
+3) Optional: Use the “Type Override” selector to change the types for any fields that need to be changed.
+4) You can also provide human-readable names for the fields in the “Label” blank and a longer description in the catch-all “Description” field.
+5) Click “Save” at the bottom of the page.
