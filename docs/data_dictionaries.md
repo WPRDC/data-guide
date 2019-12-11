@@ -42,14 +42,16 @@ Other suggestions: We like to name fields by making all the letters lowercase an
 
 ## How to create a data dictionary
 
-Option 1: You can use a spreadsheet program and then export the results to CSV.
+Option 1 (preferred and easiest): Use our fancy new [integrated data dictionaries](#integrated-data-dictionaries), which you can create through the CKAN web interface.
 
-If you do it this way,check it over by opening it in a text editor, to make sure that Excel didn't format anything (like dates) weirdly.
+Option 2: You can use a spreadsheet program and then export the results to CSV.
 
-Option 2: You can type it up by hand. It's not that hard if you have an example.
+If you do it this way, check it over by opening it in a text editor, to make sure that Excel didn't format anything (like dates) weirdly.
+
+Option 3: You can type it up by hand. It's not that hard if you have an example.
 (See [here](https://github.com/WPRDC/little-lexicographer/tree/master/examples) for examples about books.)
 
-Option 3: Use this handy Python script I wrote: [little-lexicographer](https://github.com/WPRDC/little-lexicographer).
+Option 4: Use this handy Python script I wrote: [little-lexicographer)(https://github.com/WPRDC/little-lexicographer).
 
 ## Integrated data dictionaries
 
