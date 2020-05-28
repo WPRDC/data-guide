@@ -9,7 +9,7 @@ Here's what new organizations need to know before sharing data on the Regional D
 ## Checklist
 - Before a new publisher can share information through the Regional Data Center, the following steps must be completed.
   1. Return an executed Data Deposit Agreement
-  2. Complete New Publisher Training Class
+  2. Complete New Publisher Training
   3. Share a copy of the organization's logo and description for use on the Website 
   4. (Optional) Develop a department listing for use with metadata documentation.
 
@@ -19,18 +19,17 @@ Here's what new organizations need to know before sharing data on the Regional D
 - The person signing the Data Deposit Agreement must have the authority to commit the publishing organization into an agreement with the University of Pittsburgh.
 
 ## New Publisher Training Class
-- The Regional Data Center will add a new class of data publishers each month. 
+- The Regional Data Center will train publishers as they're added. 
 - Organizations interested in publishing data should contact the Regional Data Center.
 - Organizations will need to complete the training program before publishing, and work with Regional Data Center project staff to create accounts and configure the Website.
-- In training classes, new organizations will learn how to:
+- In training, new organizations will learn how to:
   - determine publishing priorities
   - protect sensitive information, ensuring it is not shared through the open data portal
   - prepare data for publication
   - load data to the Regional Data Center Website
   - create metadata documentation
 
-- Training classes will be held in Oakland, and will likely expand to other locations around the region as demand from publishers grows.
-- The training schedule will be posted on the Regional Data Center Website, however interested organizations should first contact the Regional Data Center staff before attending. 
+- Training will be held in-person or virtually, and typically are 1 on 1 sessions. Please contact us for more information
 
 ## Organization Logo and Description
 - The Regional Data Center will include a logo from all publishing organizations on each publisher's "organization" page on the Website.
