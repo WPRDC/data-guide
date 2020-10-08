@@ -125,7 +125,7 @@ It's often helpful to walk through scenarios to identify the potential harm that
 
 * Is there any PII included in this dataset? If so, what type of information is included?
 * Can this dataset be linked to other data (public or private) to reveal PII? 
-* What types of harm might be caused by release of this data, if any?
+* What types of harm might be caused by release of this data, if any? Who will be harmed?
 * If harm can be caused by our releasing this data, is the impact LOW, MODERATE, or SEVERE?
 
 ## Reducing Risk Through Deidentification and Anonymization Processes
