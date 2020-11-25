@@ -124,6 +124,12 @@ Data Steward's email address.
 
 Link or embed screen capture
 
+#### Structuring Your Data Tables
+
+For data that is tabular (preferably uploaded in CSV format), we recommend ordering the columns in a logical order. Any primary-key fields (often including a unique key or timestamp) should be leftmost. Any other columns that could be considered to be inputs (parameters someone would use to look up a given record) should come next in the left-to-right sequence. Finally the remaining columns should be added. Within these groupings, we try to order columns so that related things are near each other, so the user can read off data in a maximally natural way.
+
+For instance, if the data were restaurant inspection results, a logical column ordering might be 1) the timestamp of the inspection, 2) the restaurant's unique ID, 3) the restaurant's name, 4) the restaurant's address, 5) the code representing the result of the inspection, 6) a longer description (decoding the code), 7) the inspector's ID, and 8) the current status of the restuarant (e.g., open or closed).
+
 #### Creating a Resource Within a Dataset
 
 The second step in the process involves creating resources within each dataset.
@@ -131,6 +137,7 @@ The second step in the process involves creating resources within each dataset.
 Link or embed screen capture
 
 - creating views
+
 
 
 ### Add data to groups
