@@ -205,6 +205,19 @@ We recorded several additional videos showing how to edit or delete an existing 
 ###### [Reorder a Resource](https://github.com/WPRDC/data-guide/blob/master/docs/Reorder%20Resource%20Instructions.gif)
 ###### [Delete a Resource](https://github.com/WPRDC/data-guide/blob/master/docs/Delete%20a%20Resource%20Instructions.gif)
 
+## Setting up an ETL job
+
+ETL (Extract-Transform-Load) jobs are automated processes we create to ingest data from an external source (such as an FTP server or a web site) and convert it into records in a dataset on our CKAN data portal.
+
+This is the typical workflow for creating an ETL job:
+
+1. Using the instructions above, create a dataset (CKAN calls it a "package"), keeping it in "Private" mode.
+2. Fill out as much of the metadata as you can, but definitely add a title, description, tags, license, the frequency of data change and publishing, and the data steward name and e-mail address.
+3. Upload each of the files that should be in the dataset (these files will eventually be overwritten by ETL processes, but uploading the files lets you set the names and formats of the resources, and provide descriptions if warranted).
+4. Read [Creating a data dictionary](https://github.com/WPRDC/data-guide/blob/master/docs/data_dictionaries.md) and then create a data dictionary. For datasets with CSV files (or other tabular data), you don't need to upload a separate data dictionary file now that we have the integrated data dictionaries described in that link.
+5. Let our Data Magician know where to find the data (e.g., the file named "awesome_dragons_and_bathtubs.csv" on the FTP server), whether it's an incremental update (e.g., just the last month) or a dump of the entire history, and when the script is scheduled to push new data (e.g., every Monday at 2am).
+6. We'll set up the ETL job and let you know. When everyone is satisfied that the dataset is done, someone (you or us) will switch it from "Private" to "Public".
+
 ### Permanence
 Coming soon!
 
