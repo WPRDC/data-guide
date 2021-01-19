@@ -51,7 +51,7 @@ If you do it this way, check it over by opening it in a text editor, to make sur
 Option 3: You can type it up by hand. It's not that hard if you have an example.
 (See [here](https://github.com/WPRDC/little-lexicographer/tree/master/examples) for examples about books.)
 
-Option 4: Use this handy Python script I wrote: [little-lexicographer)(https://github.com/WPRDC/little-lexicographer).
+Option 4: Use this handy Python script I wrote: [little-lexicographer](https://github.com/WPRDC/little-lexicographer).
 
 ## Integrated data dictionaries
 
