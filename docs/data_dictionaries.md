@@ -64,3 +64,7 @@ Our latest version of the data-portal software includes nifty built-in data-dict
 3) Optional: Use the “Type Override” selector to change the types for any fields that need to be changed.
 4) You can also provide human-readable names for the fields in the “Label” blank and a longer description in the catch-all “Description” field.
 5) Click “Save” at the bottom of the page.
+
+### Uploading integrated data dictionaries
+
+[https://github.com/WPRDC/little-lexicographer#uploading-integrated-data-dictionaries](Little lexicographer) supports uploading properly formatted CSV files to the integrated data dictionary of an existing resource: https://github.com/WPRDC/little-lexicographer#uploading-integrated-data-dictionaries
