@@ -129,7 +129,11 @@ Data steward's email address.
 ![alt text](https://github.com/WPRDC/data-guide/blob/master/docs/Create%20a%20Dataset%20Instructions.gif "Add a dataset")
 
 #### Data Dictionary
-We also strongly encourage publishers to provide a data dictionary for each data table. Data dictionaries help data users understand the underlying structure of the data file. The data dictionary can be created in a spreadsheet, saved in .csv format, and uploaded to the dataset as a resource. For an example, please see the [example included with the Allegheny County Property Assessment data](https://data.wprdc.org/dataset/property-assessments/resource/d31e1b1c-215d-4693-9898-154ca49050a4). This data dictionary should include (at minimum): 
+We also strongly encourage publishers to provide a data dictionary for each data table. Data dictionaries help data users understand the underlying structure of the data file. ~~The data dictionary can be created in a spreadsheet, saved in .csv format, and uploaded to the dataset as a resource. For an example, please see the [example included with the Allegheny County Property Assessment data](https://data.wprdc.org/dataset/property-assessments/resource/d31e1b1c-215d-4693-9898-154ca49050a4).~~ 
+
+Our system now supports integrated data ditionaries, making it unneccessary to upload a separate CSV file. More on integrated data dictionaries [here](https://github.com/WPRDC/data-guide/blob/master/docs/data_dictionaries.md).
+
+This data dictionary should include (at minimum): 
 
 * Name of each field
 * Description of the data field
