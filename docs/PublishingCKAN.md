@@ -7,15 +7,15 @@ The open data portal used by the Regional Data Center is powered by open source 
 
 ### Before creating a dataset the first time, you'll need to make sure that:
 
-1. You are logged-in to CKAN and your account has the appropriate permissions enabling you to publish
-2. Your data file is machine readable and is in an appropriate file format. Refer to the "preparing your data" section of this guide. 
-3. You have created a data dictionary for your file. See the "creating a data dictionary" section of this guide.
+1. You are logged in to CKAN and your account has the appropriate permissions enabling you to publish.
+2. Your data file is machine-readable and is in an appropriate file format. Refer to the "preparing your data" section of this guide. 
+3. You have created a data dictionary for your file. See the [Creating a data dictionary](https://github.com/WPRDC/data-guide/blob/master/docs/data_dictionaries.md) section of this guide.
 4. You are prepared to create a metadata record for your dataset. Metadata is created as part of this publishing process. Details in how to do this are included below.
 
 ### Before updating an existing resource within the dataset, you'll need to make sure that:
 
-1. You are logged-in to CKAN and your account has the appropriate permissions enabling you to publish data.
-2. Your data file is machine readable and is in an appropriate file format. Refer to the "preparing your data" section of this guide.
+1. You are logged in to CKAN and your account has the appropriate permissions enabling you to publish data.
+2. Your data file is machine -eadable and is in an appropriate file format. Refer to the "preparing your data" section of this guide.
 
 ### Creating a CKAN Account
 
@@ -23,7 +23,7 @@ Creating an account on CKAN involves visiting the [Regional Data Center web site
 
 Regional Data Center staff or your organization's administrator will also associate your CKAN acount with the appropriate organization.
 
-### Logging-in to CKAN
+### Logging in to CKAN
 
 To be able to publish a dataset, you must be logged in to the open data portal using your CKAN account. Your account must also be provided with editor or admin priveliges, as described below. To login, please visit the Regional Data Center's [login page](https://data.wprdc.org/user/login).
 
@@ -57,7 +57,7 @@ Within an organization, we'd like there to be a primary point of contact that ca
 
 Manually uploading data to CKAN involves a two-step process. The first step in the process involves the creation of a dataset. The second involves the uploading of resources. 
 
-To start the process, assuming you're logged-in to CKAN, click on the "Add Dataset" button from the [Dataset](https://data.wprdc.org/dataset) web page:
+To start the process, assuming you're logged in to CKAN, click on the "Add Dataset" button from the [Dataset](https://data.wprdc.org/dataset) web page:
 ![alt text](AddDatasetButton.GIF "Add a dataset")
 
 
