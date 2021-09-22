@@ -1,11 +1,11 @@
-#master list of content
+# Master list of content
 
-##About the project
+## About the project
 - need
 - goals
 - data portals
 
-##Getting Started
+## Getting Started
 - data deposit guide - signature and responsibilities
 - organized as publishing "classes"
 - training
@@ -13,7 +13,7 @@
 - description (include url)
 - department list
 
-##Privacy
+## Privacy
 - what to know about it - harm
 - What to publish, and what not to publish (protected data, contracts, etc)
 - what to know about data management
@@ -22,13 +22,12 @@
 - when to contact us
 - breach response plan
 
-##Establishing publication priorities
+## Establishing publication priorities
 - examine requests
 - benefits of sharing
 - update frequency
 
-
-##Preparing data
+## Preparing data
 - preferred tabular formats (csv, json)
 - accepted formats
 - formatting tabular data
@@ -36,13 +35,13 @@
 - avoid blank rows
 - legal review
 
-##Creating a data dictionary
+## Creating a data dictionary
 - what are data dictionaries
 - why are they important
 - suggested formats
 - how to create (spreadsheet)
 
-##publishing on CKAN
+## Publishing on CKAN
 - accounts and roles
 - staff roles
 - organizations
@@ -53,26 +52,26 @@
 - Data Center review (do not make public)
 - permanence
 
-##metadata
+## Metadata
 - what it is
 - why it is important
 - schema
 - how-to complete
 - creating a data dictionary and other documentation (user guides) vs. what goes into data notes
 
-##Moderating comments
+## Moderating comments
 - creating accounts on DISQUS
 - logging in
 - moderating
 
-##ETL
+## ETL
 - What is it?
 - Why does it matter?
 - questionnaire
 
-##Data Catalogs
+## Data Catalogs
 
-##Staff transition
+## Staff transition
 - notify WPRDC
 - change account roles
 
