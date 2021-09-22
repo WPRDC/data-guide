@@ -222,6 +222,10 @@ This is the typical workflow for creating an ETL job:
 5. Let our Data Magician know where to find the data (e.g., the file named "awesome_dragons_and_bathtubs.csv" on the FTP server), whether it's an incremental update (e.g., just the last month) or a dump of the entire history, and when the script is scheduled to push new data (e.g., every Monday at 2am). If there's a good primary key for the data table, let us know!
 6. We'll set up the ETL job and let you know. When everyone is satisfied that the dataset is done, someone (you or us) will switch it from "Private" to "Public".
 
+## Extra credit: More documentation!
+
+If you want to add even more documentation to your dataset, beyond the dataset description and the metadata, talk with us and check out our [Data Guides](http://tools.wprdc.org/guides/) and also the ["Datasheets for Datasets" standard](https://arxiv.org/pdf/1803.09010.pdf) for ideas on what kind of documentation could be useful to users.
+
 ### Permanence
 Coming soon!
 
