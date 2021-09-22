@@ -67,4 +67,4 @@ Our latest version of the data-portal software includes nifty built-in data-dict
 
 ### Uploading integrated data dictionaries
 
-[https://github.com/WPRDC/little-lexicographer#uploading-integrated-data-dictionaries](Little lexicographer) supports uploading properly formatted CSV files to the integrated data dictionary of an existing resource: https://github.com/WPRDC/little-lexicographer#uploading-integrated-data-dictionaries
+[Little lexicographer](https://github.com/WPRDC/little-lexicographer#uploading-integrated-data-dictionaries) supports uploading properly formatted CSV files to the integrated data dictionary of an existing resource: https://github.com/WPRDC/little-lexicographer#uploading-integrated-data-dictionaries
