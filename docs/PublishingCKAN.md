@@ -78,7 +78,9 @@ Short human-readable name of the asset. Should be in plain English and include s
 URL link to the dataset landing page on the open data portal. This field is automatically populated by the software.
 
 ##### Description (Required)
-Provide a longer description of the data (compared to the title) written in plain language that can be readily understood by non-technical users. It's a good practice to include your organization's name in the description 
+Provide a longer description of the data (compared to the title) written in plain language that can be readily understood by non-technical users. It's a good practice to include your organization's name in the description.
+
+To provide a richer dataset description for users, you can follow the instruction on [this template](https://docs.google.com/document/d/10Pgig-6sGutHExU2xoVz1524XbLech7H3VpfYNivP10/edit#heading=h.k4lac26m565n).
 
 ##### Tags (Required)
 Keywords that describe the dataset. Enter separated by semicolons. Acronyms acceptable. Use technical and non-technical terms. Use as many as needed. Use plural forms of the word, and also singular forms if different from plural (i.e. leaf/leaves, wife/wives).
