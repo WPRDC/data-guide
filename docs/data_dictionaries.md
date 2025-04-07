@@ -62,8 +62,8 @@ Our latest version of the data-portal software includes nifty built-in data-dict
 1) From the resource page, click the “Manage” button.
 2) Click on the “Data Dictionary” tab. You will see a long form with selectors and blanks for each field.
 3) Optional: Use the “Type Override” selector to change the types for any fields that need to be changed.
-4) You can also provide human-readable names for the fields in the “Label” blank and a longer description in the catch-all “Description” field.
-5) Click “Save” at the bottom of the page.
+4) You can also provide human-readable names for the fields in the “Label” blank and a longer description in the catch-all “Description” field. **Whatever you provide as the Label value will appear in the header of the data table, in place of the field name from the uploaded file.**
+6) Click “Save” at the bottom of the page.
 
 ### Uploading integrated data dictionaries
 
