@@ -197,8 +197,7 @@ When updating resources within a dataset, there is no need to designate the data
 
 There's something in your file that is preventing it from being imported into our Datastore database. The three most common problems are:
    1. **Unexpected characters (like spaces) in your column names:** We recommend formatting column names in [snake case](https://en.wikipedia.org/wiki/Snake_case). This means you should convert everything to lower case and change all spaces and punctuation to underscores (so "FIELD NAME" becomes "field_name" and "# of pirates" should be changed to "number_of_pirates").
-   2. **Unexpected changes in data type:** If everything in a column is a number, but suddenly a word appears, that can trip up the import process.
-   3. **Non-ASCII characters or weird character encoding:** These will often manifest as weird symbols when you view your file in a text editor. 
+   2. **Non-ASCII characters or weird character encoding:** These will often manifest as weird symbols when you view your file in a text editor. 
 
 ### Editing or Updating a Dataset or Resource
 
